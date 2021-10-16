@@ -1,0 +1,221 @@
+% This Template is based on the Proposal Template by Constantin Scheuermann and Jan Ole Johanßen. Thanks!
+
+\documentclass[a4paper]{article}
+
+% Define page margine
+\usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+
+% Enable use of figures
+\usepackage[pdftex]{graphicx}
+\usepackage{float}
+\usepackage{floatflt}
+\usepackage{enumitem}
+
+% Set line spacing
+\usepackage{setspace}
+\linespread{1.2}
+
+% Allow for hyphenation
+\usepackage{hyphenat}
+\hyphenation{over-view}
+
+% Include url package
+\usepackage{url}
+
+% Scenarios
+\usepackage{longtable}
+
+\title{
+% Insert the proposed title
+Attribution-based Personas 
+\\ in distributed Software Engineering Projects
+\\
+%TODO Insert the proposal type: [Guided Research, Bachelor's Thesis, Master's Thesis, Research Proposal] and number of credits
+\vspace{.2 \baselineskip}
+\small{Master's Thesis (30 ECTS)} \\
+%TODO Insert your field of studies
+\small{Information Systems}}
+
+\author{
+Supervisor: Prof. Dr. Stephan Jonas\\
+Advisor: Lara Marie Reimer, M.Sc.\\
+%TODO Insert your name
+Author: Klaudia Madhi, B.Sc.
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+Virtual team collaboration has introduced leaders of software engineering teams to unexpected situations and new challenges, which often come as a result of cognitive biases one creates about the team. Such biases affect the leader-member relationship and might imply an alternate execution of leadership tasks, and consequently influence the team's performance. In this thesis, we want to provide an overview of the fundamental attribution error in virtual teams, and how this bias constructs the perception and the behaviour a leader exhibits towards a software development team. The creation of a model will be achievable via extensive interviews with team leaders, creation of bias-based personas, and a validation round. Lastly, this model will support the implementation of an algorithm, that will assist project leaders with the identification of the attribution error. At the end of this thesis, we want to demonstrate that this bias is common, and moreover so, the impact it has in the relationship between leader and member. The studying of such a phenomenon not only would introduce leaders to biases they didn't know they could develop, but might also lead to them recognizing and preventing it in themselves, and eventually reduce the fundamental attribution error in future software development projects.
+
+\end{abstract}
+
+
+\newpage
+
+%TODO Replace the content of the following (sub)sections with your text
+
+\section{Problem Statement}
+
+With the evolution of information and communication technologies (ICT), many organizations have established virtual teams throughout the years. Virtual teams are groups of geographically dispersed people that communicate and collaborate via different forms of technologies to accomplish organizational or project-based tasks \cite{Townsed1998}. Lately, the pandemic of 2020/21, has made digital transformation obligatory, for all businesses and for all sectors \cite{Fletcher2020}. Organizations are accelerating the adoption of digital transformation as the best way to avoid a short-term economic collapse and survive the COVID-19 pandemic with resilience \cite{Pedro2020}. Digital transformation is a complex and strategic activity that encompasses an entire organisation, and it does not solely imply the application of a series of brand new systems, such as video conferencing technologies. A major digital transformation took over the iPraktikum as well, a practical course teaching agile software development in iOS. All activities of this course need to be handled virtually, including a preparatory Swift programming language bootcamp, meetings, important milestones, and the development process itself. The teams follow the Scrum structure, and consist of a product owner (a.k.a. project leader), scrum master (a.k.a. coach) and the scrum team of developers.
+
+Digital transformation is accompanied by an access to new information and development of knowledge through ICT, that can transform what was once considered acceptable and unacceptable behaviours by followers, as well as by leaders \cite{Avolio2000}. Some research shows, that members of short term, distributed, virtual teams are not particularly motivated to get to know their online partners \cite{Walther2002}. Moreover, without gaining such knowledge or experiencing the benefits of proper social interaction, when such groups fail to accomplish the demands of virtual work, members turn their frustration not to their own adaptation failures or to the situation, but towards their colleagues.  
+
+In another study, Cramton \cite{Cramton2001} suggests that the dynamic underlying of such perceptions is the psychological principle called the fundamental attribution \cite{Tidwell2002}, in other words, the tendency to blame another's disposition, or personality, for what is actually a situationally-stimulated behaviour. Synonyms to this fundamental attribution error are attribution bias and correspondence bias.
+
+The fundamental attribution has also been used to further understand the causes of leader behaviour \cite{Green1979}. As many other cognitive biases, the fundamental attribution can risk the proper management of the team, and is also correlated with a specific style of leadership, the so-called transactional leadership \cite{Masood2012}, a style not particularly successful when managing remote or virtual teams \cite{Howell2005} \cite{Purvanova2009}. So, on the one hand, leaders and application of advanced information technology need to co-evolve over time to optimize a group's development and performance \cite{Avolio2000}, but on the other hand, cognitive biases as result of ICT can emerge. Notably, distribution of team members has also been found to result in an increased susceptibility to the fundamental attribution error \cite{Thompson2006}. 
+
+Considering software development teams specifically, biases are very common. Cognitive biases help to explain some of the most prominent software engineering (SE) problems in diverse activities including design, testing, requirements engineering  and project management \cite{Mohanai2018}. Topics which have received the most attention in terms of biases are information systems' usages and management, while software development, application systems require further investigation \cite{Fleischmann2014}.
+
+As stated above, the phenomenon of fundamental attribution can cause unaware and maybe unfair ascription of team members from team leaders. The vast situations introduced by virtual collaboration in the complex domain of software engineering, and more specifically in the context of the iPraktikum, open the door to the possible rise of attributions. These can originate from stiff "You are muted" statements, or even from poor internet connection. Moreover, the fundamental attribution error is a topic, which hasn't been studied in the iPraktikum, and might play a substantial role in the relationship created between the project leader and the scrum team. Studying this phenomenon presents itself to be necessary in such a situation, and the results of this thesis and the identification of biases will help the leaders perform important tasks such as decision-making much more efficiently and impartially.
+
+\section{Proposed Solution}
+
+Research shows, that there is a shift in project management research from processes towards behaviours \cite{Leybourne2007}, and systematic biases are so common in the human decision-making process, that they might even cause project failure \cite{Shore2008}. Insights from  psychology, and in particular cognitive biases, can further enrich existing theories and models in information systems \cite{Fleischmann2014}, which include the use of software development. In this thesis, we aim at the examination of the range of behaviours a team might manifest as result of remote collaboration as perceived by the project leaders, and model the attribution process and responses. The modelling of such a process includes the identification and definition of biases, a mapping of those onto personas and an examination of the outcome these biases have on the team. The results of this research will be further addressed via an algorithm, which will help future project leaders verify their biases.
+
+The subject of this research will be the iPraktikum SS21, founded by the Chair of Applied Software Engineering and this semester held by the Professorship for Digital Health at the Technical University of Munich (TUM). There are 12 teams participating, each with their own specific project and domain. The projects have 1-2 project leaders each, which will play a key role in the realization of our research. Moreover, the iPraktikum fulfils one core requirement: it takes place virtually, providing the perfect context and environment for this thesis.
+
+\section{Related Work}
+
+The fundamental attribution error in leadership is studied as early as 1979, a study in which attribution theory is presented as a vehicle for describing and understanding the causes of leader behaviour in leader-member interactions \cite{Green1979}. According to the same paper, subordinate behaviour generates leader attributions, which then stimulate certain leader behaviour. 
+
+Which these behaviours specifically are, have been then studied by Martinko et al. 1987, identifying withdrawal of rewards, punishment or no action as possible outcome. Another stream of research examines the attribution members have on the leader of a team \cite{Sweet2020}. Furthermore, literature \cite{Gardner2018} suggests that the way individuals make attributions of others' behaviours determines how these behaviours affect both individuals' internal psychological states and external relationships with others.
+
+Attribution in virtual teams is studied within teams in various studies, but mostly in identifying it as a phenomenon. E.g. Cramton, 2002 \cite{Crampton2001} considers how the use of technology mediated communication can contribute to a less shared reality, and then to attribution. 
+
+Atkinson et al., study the dynamics in short term distributed teams. They not only suggest that the hypothesized dynamics of outgroup attribution in distributed virtual teams does occur, but also argue that a face-to-face meeting may be valuable for people who work together online. Pauleen, 2005 \cite{Pauleen2005} argues that time lags due to technical infrastructure and technological breakdowns, if not understood by the people involved, can cause the team leader or team member to attribute non-communication to lack of manners or conscientiousness, which can then seriously affect relationships. Another study though argues, that teams recognize that constraints
+may create real impediments for a their performance, and realizing their negative
+impact can motivate teams to adjust, in an effort to adapt to those constraints \cite{Bazarova2012}. Bazarova et al., 2009 categorize attributions into dispositional, situational, generic situation, distance, other members or computer use \cite{Bazarova2009}, a categorization which might help frame the attributions identified in this thesis as well.
+
+Considering software engineering teams, cognitive biases help to explain many common software engineering problems in diverse activities. Such biases include estimation bias \cite{Jorgensen2012}, optimistic/pessimistic bias \cite{Fleischmann2014}, overconfidence among others, observing processes that include design, testing, requirements engineering, and project management. Research on cognitive biases has been useful not only to identify common errors, their causes and how to avoid them in SE processes, but also for developing better practices, methods, and artifacts. 
+
+Studies on attributions in information systems consider system users as actors, in the case of user-developer misunderstandings \cite{Snead2014}, vendors and buyers of outsourcing services\cite{Rouse2007}, or attributions between information systems designers \cite{Peterson2002}. The results of these studies are similar, showing that negative outcomes such as project or negotiation failure increase the chance of negative attributions towards a counterparty or colleagues. 
+
+Specific work in leader attribution in remote virtual teams has been mostly conducted under the hood of relationship building, communication and trust building. Lack of situational knowledge of team members can cause misunderstandings and attribution error, leading to potential obstacles  \cite{Pauleen2005}, but from our research, attribution as a phenomenon or as a bias has not been studied separately.
+
+\section{Research Approach and Methodology}
+
+This thesis will make use of mixed research methodologies to derive the results. As already mentioned, we will be using the context of the iPraktikum SS21 to perform this study and validate it as well. Our research will be supported via empirical evidence, following qualitative research methods. Lastly, the development of an algorithmic representation of the results will add a quantitative approach to the realization of this thesis. Through this work, we want to show that the fundamental attribution exists among project leaders, and can even be recognized during activities of project management. 
+
+\subsection{Research Approach} 
+
+The study we aim to conduct will rely on collecting data from real instances. Empirical methods see the systematic collection of material or analysis of data as the way to acquire knowledge and to provide evidence to the findings. Such an approach would fit our case as well.
+
+This thesis requires the application of qualitative research methods. Since we first want to identify biases, which are textual data representing human experience, methods of qualitative research would be the most appropriate. Since we will not be using a specific pre-set of expected biases, after the collection of data, the results must be analysed following an inductive approach. We will be exploring the existence of this phenomenon, and then try to find connections between the data collected. Although we might expect some results, the range of outcomes is open.
+
+Regarding the analysis of data, content analysis is suggested \cite{Silverman2011}. This approach aims the examination of recurring instances, which are then grouped together following a coding system. Moreover, in order to provide a better overview of the data, these could also be quantified via counting instances. 
+
+Interview coding is an important process, that must take into consideration the goal of the thesis, which is the exploration of participant actions/processes and perceptions found within the data. Coding methods that may systematize and better reveal these, include descriptive, and/or pattern coding \cite{Wicks2017}.
+
+Another way to describe qualitative approaches is via three key dimensions, namely the focus, author and reporting style \cite{Goodrick2015}. Following this model, the focus of this study is the development of personas, which will be created after the analysis phase. The analysis will be conducted by one person (the author of this thesis). Eventually, a summary of patterns with illustrative examples, which can also be regarded as personas, will be reported. These personas provide the basis for the development work that will conclude the activities of this thesis. 
+
+\subsection{Research Methodology}
+
+Semi-structured interviews are one of the most commonly used qualitative methods for data collection, and the method that fits our research best.
+
+Although the interviewer prepares a list of predetermined questions, semi-structured interviews (SSI) unfold in a conversational manner offering participants the chance to explore issues
+they feel are important. Semi-structured interviews are conversational and informal in tone. They allow for an open response in the participants’ own words rather than a ‘yes or no’ type answer. 
+
+SSIs are especially relevant in the situations in which the results are not pre-defined or expected in any way. This way, during the interview in the following interesting leads can be spotted and then pursued \cite{Adams2015}. Although semi-structured, a guide must be crafted for every interview, as well as an outline of planned topics. The questions to be addressed, must be arranged in a meaningful order. The interview will be a work in progress until the first trial interview, after which, the questions and agenda might be subject to modifications.
+
+As briefly described in the previous section, data collection must be followed by data anaysis, which in such cases, is conducted via coding. After coding the semi-structured interviews, the results might be summarized via descriptive statistics.
+
+Most importantly, the results will motivate the creation of personas. Although the persona methodology has been mostly used in website design, much of the work of building personas has benefits beyond that field \cite{Madsen2014}. Personas are identified via major goals, challenges, and core details, attributes which we aim to extract and explore during the interviews. Statistical summaries are often difficult to be understood by the majority of people, hence, the employment of personas will be introduced, which might facilitate the illustration of the biases. Personas are an especially powerful communication tool because we as humans are naturally equipped to generate and engage with representations of people \cite{Grudin2006}. 
+
+The creation of personas could be followed by a validation phase \cite{Miaskiewicz2008}. The primary goal of the this step is to verify the personas that were created previously, in terms of their attributes. This step can be carried out by participating in the environment in which projects leaders operate, such as meetings, to observe whether attribution occurs or be attained via a survey. The observations can be discussed in an interview with the project leaders, an activity which would constitute the second round of persona validation.
+
+To concretely aid project leaders in the prevention of biases, or at least in their identification, an algorithm that maps behaviours into personas will be developed. The algorithm will combine the situations leading to biases, the personas themselves, as well as the statistical quantification of the results.
+
+\section{System Requirements and Top Level Design}
+
+Following scenario describes the problem statement as well as the benefits of the solution we propose. Anna is a young project leader who has just started managing a virtual team of 7 developers. Right from the start, she is motivated to not apply any changes to the way meetings are conducted, and thinks important tasks in which decision-making is involved will remain the same. 
+After a few meetings, she notices that one of the developers seems to keep his microphone and camera closed most of the time. She becomes suspicious and thinks that the developer lacks social skills, or is trying to hide his lack of technical skills. Unable to reach out to him, she ignores the developer most of the time, and is reluctant to form any relationship with this team member. 
+Anna recognizes this behaviour in her, and wonders whether she is right about her attribution. She could really benefit from a framework, which has studied different types of behaviours and perceptions project leaders have had of similar behaviours. She would also like to know how normal such a behaviour is.
+
+Therefore,  the requirements for this thesis can be addressed via the following research questions:
+\begin{itemize}
+	\item Which are the biases project leaders exhibit in the perception they have on the team members, considering the virtual situation?
+
+In the scenario above, Anna is biased from the closed microphone and camera into thinking that the developer lacks certain skills. Meanwhile, there is a range in situations and therefore of perceptions, one could create.
+
+	\item Can similarities between these perceptions be identified, and structured in the form of personas?
+	
+Anna is probably not the only project leader facing such situations, and therefore forming biases. By considering the experiences of multiple project leaders, a set of personas exhibiting similar  characteristics should be constructed.
+
+	\item How do these biases affect the way leaders react towards members of the team?
+	
+According to the scenario, Anna chooses to not react to this behaviour, overlooks it, while the lack of interaction of the developer might have further impact in the team dynamic, beyond the mere perception Anna creates. Meanwhile, she could have made use of the knowledge embedded in an algorithm, which would aid her in assessing her concerns and situation.
+\end{itemize}
+
+\section{Expected Findings}
+
+The first step in this study is to identify situations and define the systematic biases that emerge as a result of remote team collaboration. We expect biases to be present in specific teams, but also across teams, which will then support the creation of personas. Ideally, there would be 4-5 main personas identified, and multiple minor ones. Additionally, we anticipate the biases to have an affect in team leader - member relationship, which will be validated in post-interviews.
+
+Eventually, we want to show that different team leaders can form attributions by diverse, unique situations. How these biases differ from one leader to the other, and what can be said in general about the perceptions leaders create, are the main goals of this thesis.
+
+\section*{Time Schedule}
+
+The main time points that need to be considered are the total duration of the thesis, and also the duration of the  iPraktikum, which is the project under study:
+
+\begin{itemize}
+	%TODO Update Timeframe
+	\item Total timeframe: June 15 to December 15, 2021
+	%TODO Use the subsequent line in case you (partially) write your thesis abroad, otherwise, skip this addition
+	\item iPraktikum SS21 duration: April 12 to July 23, 2021, in which
+	\begin{itemize}
+	\item June 10: Design Review
+	\item July 15: Client Acceptance Test
+	\end{itemize}
+\end{itemize}
+
+There are three main activities to be considered in this thesis. First, the semi-structured interviews, which need to be constructed, validated, performed and anayzed. Secondly, the generation of personas, based on the findings from the interviews. Thirdly, we want to validate the findings and finalize the model we want to design on the fundamental attribution error via a representational algorithm. A weekly schedule is presented as follows:
+
+\begin{itemize}
+\item June
+	\begin{itemize}
+	\item 1\textsuperscript{st} week: Develop first version of the interview questions and agenda
+	\item 2\textsuperscript{nd} week: Test the interview and iterate over its structure
+	\end{itemize}
+\item July
+	\begin{itemize}
+	\item 3\textsuperscript{rd} week, 4\textsuperscript{th} and 5\textsuperscript{th}: Conduct interviews with the rest of the participants, which in our case are team project leaders 
+	\item 6\textsuperscript{th} week: First round of data analysis and interview pattern coding based on the audio files of the interviews
+	\end{itemize}
+\item August
+	\begin{itemize}
+	\item 7\textsuperscript{th} and 8\textsuperscript{th} week:  Validation round of the first patterns observed in the data and gathering of complementary data
+	\item 9\textsuperscript{th} and 10\textsuperscript{th} week: Interview transcribing and its finalisation
+	\item 11\textsuperscript{th}week: Structure the findings from the interview and prepare their representation in the thesis
+	 chapters
+	\end{itemize}	
+\item September
+	\begin{itemize}
+	\item 12\textsuperscript{th} week: Formalize the findings into a comprehensible model of personas
+	\item 13\textsuperscript{th}, 14\textsuperscript{th} and 15\textsuperscript{th} week:  Development of an algorithm that supports the goal of this thesis
+	\end{itemize}	
+\item October
+	\begin{itemize}
+	\item 16\textsuperscript{th} week:  Continue the development of the algorithm
+	\item 17\textsuperscript{th} week: Start with the writing of the thesis, by providing the first chapters
+	\item 18\textsuperscript{th}and 19\textsuperscript{th} week: Write sections about the data collection and data anaysis of the interview transcriptions
+	\end{itemize}	
+\item November
+	\begin{itemize}
+	\item 20\textsuperscript{th} and 21\textsuperscript{st} week: Write the thesis sections on the personas 
+	\item 22\textsuperscript{nd} and 23\textsuperscript{rd} week: Finalize the writing of the thesis
+	\end{itemize}		
+\item December
+	\begin{itemize}
+	\item Finalize the writing of the thesis
+	\end{itemize}			
+\end{itemize}
+
+\noindent Considering the different schedules project leaders have, we have allocated 3 weeks to the conduct of the interviews. These could though take place in the timespan of 2 weeks, or less, leaving the rest of the time for the first round of data analysis, which constitutes transcription and one of the coding methods.
+
+\bibliographystyle{plain}
+\bibliography{/Users/klaudiamadhi/Desktop/thesisbibfile}
+
+\end{document}

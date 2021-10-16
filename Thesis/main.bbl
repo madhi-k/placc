@@ -1,0 +1,2418 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{Adams2015}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=AW}{%
+         family={Adams},
+         familyi={A\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AW1}
+    \strng{fullhash}{AW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ada15}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1002/9781119171386.ch19
+    \endverb
+    \field{title}{Conducting Semi-Structured Interviews}
+    \field{month}{08}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Avolio2000}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AB}{%
+         family={Avolio},
+         familyi={A\bibinitperiod},
+         given={Bruce},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kahai},
+         familyi={K\bibinitperiod},
+         given={Simran},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Dodge},
+         familyi={D\bibinitperiod},
+         given={George},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ABKSDG1}
+    \strng{fullhash}{ABKSDG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AKD00}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1016/S1048-9843(00)00062-X
+    \endverb
+    \field{pages}{615\bibrangedash 668}
+    \field{title}{E-Leadership: Implications for theory, research, and
+  practice}
+    \field{volume}{11}
+    \field{journaltitle}{The Leadership Quarterly}
+    \field{month}{12}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Auerbach2003}{book}{}
+    \name{author}{2}{}{%
+      {{hash=AC}{%
+         family={Auerbach},
+         familyi={A\bibinitperiod},
+         given={Carl},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SLB}{%
+         family={Silverstein},
+         familyi={S\bibinitperiod},
+         given={Louise\bibnamedelima B},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {NYU press}%
+    }
+    \strng{namehash}{ACSLB1}
+    \strng{fullhash}{ACSLB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AS03}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Qualitative data: An introduction to coding and analysis}
+    \field{volume}{21}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Allen2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AIE}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={I\bibnamedelima Elaine},
+         giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SCA}{%
+         family={Seaman},
+         familyi={S\bibinitperiod},
+         given={Christopher\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AIESCA1}
+    \strng{fullhash}{AIESCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{AS07}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{7}
+    \field{pages}{64\bibrangedash 65}
+    \field{title}{Likert scales and data analyses}
+    \field{volume}{40}
+    \field{journaltitle}{Quality progress}
+    \field{year}{2007}
+  \endentry
+
+  \entry{bruegge2004object}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BB}{%
+         family={Bruegge},
+         familyi={B\bibinitperiod},
+         given={Bernd},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DAH}{%
+         family={Dutoit},
+         familyi={D\bibinitperiod},
+         given={Allen\bibnamedelima H},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall}%
+    }
+    \strng{namehash}{BBDAH1}
+    \strng{fullhash}{BBDAH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BD09}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Object Oriented Software Engineering Using UML, Patterns, and
+  Java}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Benbasat1987}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BI}{%
+         family={Benbasat},
+         familyi={B\bibinitperiod},
+         given={Izak},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=GDK}{%
+         family={Goldstein},
+         familyi={G\bibinitperiod},
+         given={David\bibnamedelima K},
+         giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mead},
+         familyi={M\bibinitperiod},
+         given={Melissa},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{BIGDKMM1}
+    \strng{fullhash}{BIGDKMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BGM87}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{369\bibrangedash 386}
+    \field{title}{The case research strategy in studies of information systems}
+    \field{journaltitle}{MIS quarterly}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Bazarova2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BNN}{%
+         family={Bazarova},
+         familyi={B\bibinitperiod},
+         given={Natalya\bibnamedelima (Natalie)},
+         giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hancock},
+         familyi={H\bibinitperiod},
+         given={Jeffrey},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BNNHJ1}
+    \strng{fullhash}{BNNHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BH12}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1177/0093650210397538
+    \endverb
+    \field{pages}{499\bibrangedash 522}
+    \field{title}{Attributions After a Group Failure: Do They Matter? Effects
+  of Attributions on Group Communication and Performance}
+    \field{volume}{39}
+    \field{journaltitle}{Communication Research - COMMUN RES}
+    \field{month}{08}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Bazarova2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BNN}{%
+         family={Bazarova},
+         familyi={B\bibinitperiod},
+         given={Natalya\bibnamedelima (Natalie)},
+         giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Walther},
+         familyi={W\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BNNWJ1}
+    \strng{fullhash}{BNNWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BW09}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1177/1046496408328490
+    \endverb
+    \field{pages}{138\bibrangedash 162}
+    \field{title}{Attributions in Virtual Groups: Distances and Behavioral
+  Variations in Computer-Mediated Discussions}
+    \field{volume}{40}
+    \field{journaltitle}{Small Group Research - SMALL GROUP RES}
+    \field{month}{01}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Barriball1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BKL}{%
+         family={Barriball},
+         familyi={B\bibinitperiod},
+         given={K\bibnamedelima Louise},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={While},
+         familyi={W\bibinitperiod},
+         given={Alison},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford: Blackwell Scientific Publications, 1976-}%
+    }
+    \strng{namehash}{BKLWA1}
+    \strng{fullhash}{BKLWA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BW94}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{2}
+    \field{pages}{328\bibrangedash 335}
+    \field{title}{Collecting data using a semi-structured interview: a
+  discussion paper}
+    \field{volume}{19}
+    \field{journaltitle}{Journal of Advanced Nursing-Institutional
+  Subscription}
+    \field{year}{1994}
+  \endentry
+
+  \entry{Chow2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CT}{%
+         family={Chow},
+         familyi={C\bibinitperiod},
+         given={Tsun},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CDB}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Dac-Buu},
+         giveni={D\bibinithyphendelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{CTCDB1}
+    \strng{fullhash}{CTCDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CC08}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{6}
+    \field{pages}{961\bibrangedash 971}
+    \field{title}{A survey study of critical success factors in agile software
+  projects}
+    \field{volume}{81}
+    \field{journaltitle}{Journal of systems and software}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Charmaz2012}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=CK}{%
+         family={Charmaz},
+         familyi={C\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CK1}
+    \strng{fullhash}{CK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cha12}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{The Power and Potential of Grounded Theory}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Chattopadhyay2020}{inproceedings}{}
+    \name{author}{7}{}{%
+      {{hash=CS}{%
+         family={Chattopadhyay},
+         familyi={C\bibinitperiod},
+         given={Souti},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NN}{%
+         family={Nelson},
+         familyi={N\bibinitperiod},
+         given={Nicholas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Au},
+         familyi={A\bibinitperiod},
+         given={Audrey},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={Morales},
+         familyi={M\bibinitperiod},
+         given={Natalia},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Sanchez},
+         familyi={S\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Pandita},
+         familyi={P\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sarma},
+         familyi={S\bibinitperiod},
+         given={Anita},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CSNNAA+1}
+    \strng{fullhash}{CSNNAAMNSCPRSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cha+20}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{Proceedings of the ACM/IEEE 42nd International Conference
+  on Software Engineering}
+    \field{pages}{654\bibrangedash 665}
+    \field{title}{A tale from the trenches: cognitive biases and software
+  development}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Cohn2004}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CM}{%
+         family={Cohn},
+         familyi={C\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley Professional}%
+    }
+    \strng{namehash}{CM1}
+    \strng{fullhash}{CM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Coh04}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{User stories applied: For agile software development}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Cramton2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Cramton},
+         familyi={C\bibinitperiod},
+         given={Catherine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cra01}
+    \field{extraalpha}{1}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1287/orsc.12.3.346.10098
+    \endverb
+    \field{pages}{346\bibrangedash 371}
+    \field{title}{The Mutual Knowledge Problem And Its Consequences for
+  Dispersed Collaboration}
+    \field{volume}{12}
+    \field{journaltitle}{Organization Science}
+    \field{month}{05}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Crampton2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CC}{%
+         family={Cramton},
+         familyi={C\bibinitperiod},
+         given={Catherine},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CC1}
+    \strng{fullhash}{CC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cra01}
+    \field{extraalpha}{2}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1287/orsc.12.3.346.10098
+    \endverb
+    \field{pages}{346\bibrangedash 371}
+    \field{title}{The Mutual Knowledge Problem And Its Consequences for
+  Dispersed Collaboration}
+    \field{volume}{12}
+    \field{journaltitle}{Organization Science}
+    \field{month}{05}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Cooper2007}{book}{}
+    \name{author}{3}{}{%
+      {{hash=CA}{%
+         family={Cooper},
+         familyi={C\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Reimann},
+         familyi={R\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cronin},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{CARRCD1}
+    \strng{fullhash}{CARRCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CRC07}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{About face 3: the essentials of interaction design}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Chun2019}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CTY}{%
+         family={Chun\bibnamedelima Tie},
+         familyi={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+         given={Ylona},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Birks},
+         familyi={B\bibinitperiod},
+         given={Melanie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FK}{%
+         family={Francis},
+         familyi={F\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SAGE Publications Sage UK: London, England}%
+    }
+    \strng{namehash}{CTYBMFK1}
+    \strng{fullhash}{CTYBMFK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CTBF19}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{2050312118822927}
+    \field{title}{Grounded theory research: A design framework for novice
+  researchers}
+    \field{volume}{7}
+    \field{journaltitle}{SAGE open medicine}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Dinh2014}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DJE}{%
+         family={Dinh},
+         familyi={D\bibinitperiod},
+         given={Jessica\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LRG}{%
+         family={Lord},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima G},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GWL}{%
+         family={Gardner},
+         familyi={G\bibinitperiod},
+         given={William\bibnamedelima L},
+         giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MJD}{%
+         family={Meuser},
+         familyi={M\bibinitperiod},
+         given={Jeremy\bibnamedelima D},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LRC}{%
+         family={Liden},
+         familyi={L\bibinitperiod},
+         given={Robert\bibnamedelima C},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Jinyu},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{DJELRGGWL+1}
+    \strng{fullhash}{DJELRGGWLMJDLRCHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Din+14}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{36\bibrangedash 62}
+    \field{title}{Leadership theory and research in the new millennium: Current
+  theoretical trends and changing perspectives}
+    \field{volume}{25}
+    \field{journaltitle}{The Leadership Quarterly}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Dejonckheere2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DM}{%
+         family={DeJonckheere},
+         familyi={D\bibinitperiod},
+         given={Melissa},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VLM}{%
+         family={Vaughn},
+         familyi={V\bibinitperiod},
+         given={Lisa\bibnamedelima M},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BMJ Publishing Group}%
+    }
+    \strng{namehash}{DMVLM1}
+    \strng{fullhash}{DMVLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{DV19}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{title}{Semistructured interviewing in primary care research: a
+  balance of relationship and rigour}
+    \field{volume}{7}
+    \field{journaltitle}{Family Medicine and Community Health}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Fernandez2004}{inproceedings}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=FWD}{%
+         family={Fern{\'a}ndez},
+         familyi={F\bibinitperiod},
+         given={Walter\bibnamedelima D},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FWD+1}
+    \strng{fullhash}{FWD+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fer+04}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Information Systems Foundations Workshop: Constructing
+  and Criticising}
+    \field{number}{22}
+    \field{pages}{43\bibrangedash 59}
+    \field{title}{The grounded theory method and case study data in IS
+  research: issues and design}
+    \field{volume}{1}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Fletcher2020}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FG}{%
+         family={Fletcher},
+         familyi={F\bibinitperiod},
+         given={Gordon},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Griffiths},
+         familyi={G\bibinitperiod},
+         given={Marie},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FGGM1}
+    \strng{fullhash}{FGGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{FG20}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1016/j.ijinfomgt.2020.102185
+    \endverb
+    \field{pages}{102185}
+    \field{title}{Digital transformation during a lockdown}
+    \field{volume}{55}
+    \field{journaltitle}{International Journal of Information Management}
+    \field{month}{07}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Fink2003}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FA}{%
+         family={Fink},
+         familyi={F\bibinitperiod},
+         given={Arlene},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {sage}%
+    }
+    \strng{namehash}{FA1}
+    \strng{fullhash}{FA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fin03}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The survey handbook}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Fleischmann2014}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=FM}{%
+         family={Fleischmann},
+         familyi={F\bibinitperiod},
+         given={Marvin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Amirpur},
+         familyi={A\bibinitperiod},
+         given={Miglena},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Benlian},
+         familyi={B\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hess},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FMAMBAHT1}
+    \strng{fullhash}{FMAMBAHT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Fle+14}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Cognitive Biases in Information Systems Research: A
+  Scientometric Analysis}
+    \field{journaltitle}{ECIS 2014 Proceedings - 22nd European Conference on
+  Information Systems}
+    \field{month}{06}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Fiske1991}{book}{}
+    \name{author}{2}{}{%
+      {{hash=FST}{%
+         family={Fiske},
+         familyi={F\bibinitperiod},
+         given={Susan\bibnamedelima T},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=TSE}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Shelley\bibnamedelima E},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mcgraw-Hill Book Company}%
+    }
+    \strng{namehash}{FSTTSE1}
+    \strng{fullhash}{FSTTSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{FT91}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Social cognition}
+    \field{year}{1991}
+  \endentry
+
+  \entry{Galloway2005}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=GA}{%
+         family={Galloway},
+         familyi={G\bibinitperiod},
+         given={Alison},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KLK}{%
+         family={Kempf-Leonard},
+         familyi={K\bibinithyphendelim L\bibinitperiod},
+         given={Kimberly},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{GA1}
+    \strng{fullhash}{GA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gal05}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Encyclopedia of Social Measurement}
+    \verb{doi}
+    \verb https://doi.org/10.1016/B0-12-369398-5/00382-0
+    \endverb
+    \field{isbn}{978-0-12-369398-3}
+    \field{pages}{859\bibrangedash 864}
+    \field{title}{Non-Probability Sampling}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/B0123693985003820
+    \endverb
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2005}
+  \endentry
+
+  \entry{Gardner2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GW}{%
+         family={Gardner},
+         familyi={G\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Karam},
+         familyi={K\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TL}{%
+         family={Tribble},
+         familyi={T\bibinitperiod},
+         given={Lori},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cogliser},
+         familyi={C\bibinitperiod},
+         given={Claudia},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GWKETLCC1}
+    \strng{fullhash}{GWKETLCC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gar+18}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1002/job.2349
+    \endverb
+    \field{title}{The Missing Link? Implications of Internal, External, and
+  Relational Attribution Combinations For Leader‐Member Exchange,
+  Relationship Work, Self‐Work, and Conflict}
+    \field{volume}{40}
+    \field{journaltitle}{Journal of Organizational Behavior}
+    \field{month}{12}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Glaser1978}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GB}{%
+         family={Glaser},
+         familyi={G\bibinitperiod},
+         given={B.G.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sociology Press}%
+    }
+    \strng{namehash}{GB1}
+    \strng{fullhash}{GB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gla78}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{isbn}{9781884156014}
+    \field{series}{Advances in the methodology of grounded theory}
+    \field{title}{Theoretical Sensitivity: Advances in the Methodology of
+  Grounded Theory}
+    \verb{url}
+    \verb https://books.google.al/books?id=73-2AAAAIAAJ
+    \endverb
+    \field{year}{1978}
+  \endentry
+
+  \entry{Green1979}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GS}{%
+         family={Green},
+         familyi={G\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={Terence},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GSMT1}
+    \strng{fullhash}{GSMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GM79}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1016/0030-5073(79)90008-4
+    \endverb
+    \field{pages}{429\bibrangedash 458}
+    \field{title}{Attributional Processes of Leaders in Leader-member
+  Interactions}
+    \field{volume}{23}
+    \field{journaltitle}{Organizational Behavior and Human Performance}
+    \field{month}{06}
+    \field{year}{1979}
+  \endentry
+
+  \entry{Grudin2006}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Grudin},
+         familyi={G\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gru06}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1016/B978-012566251-2/50013-7
+    \endverb
+    \field{isbn}{9780125662512}
+    \field{pages}{642\bibrangedash 664}
+    \field{title}{Why Personas Work: The Psychological Evidence}
+    \field{journaltitle}{The Persona Lifecycle}
+    \field{month}{12}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Glaser1968}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GBG}{%
+         family={Glaser},
+         familyi={G\bibinitperiod},
+         given={Barney\bibnamedelima G},
+         giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SAL}{%
+         family={Strauss},
+         familyi={S\bibinitperiod},
+         given={Anselm\bibnamedelima L},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Strutzel},
+         familyi={S\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {LWW}%
+    }
+    \strng{namehash}{GBGSALSE1}
+    \strng{fullhash}{GBGSALSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{GSS68}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{4}
+    \field{pages}{364}
+    \field{title}{The discovery of grounded theory; strategies for qualitative
+  research}
+    \field{volume}{17}
+    \field{journaltitle}{Nursing research}
+    \field{year}{1968}
+  \endentry
+
+  \entry{Heider1958}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HF}{%
+         family={Heider},
+         familyi={H\bibinitperiod},
+         given={Fritz},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Psychology Press}%
+    }
+    \strng{namehash}{HF1}
+    \strng{fullhash}{HF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Hei58}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{The psychology of interpersonal relations}
+    \field{year}{1958}
+  \endentry
+
+  \entry{Howell2005}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HJ}{%
+         family={Howell},
+         familyi={H\bibinitperiod},
+         given={JM},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ND}{%
+         family={Neufeld},
+         familyi={N\bibinitperiod},
+         given={Derrick},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AB}{%
+         family={Avolio},
+         familyi={A\bibinitperiod},
+         given={Bruce},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJNDAB1}
+    \strng{fullhash}{HJNDAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{HNA05}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1016/leaqua.2005.01.004
+    \endverb
+    \field{pages}{273\bibrangedash 285}
+    \field{title}{Examining the relationship of leadership and physical
+  distance with business unit performance}
+    \field{volume}{16}
+    \field{journaltitle}{The Leadership Quarterly}
+    \field{month}{04}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Hutchinson1992}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HSWH}{%
+         family={Hutchinson\bibnamedelima S},
+         familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Wilson\bibnamedelima HS},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HSWH1}
+    \strng{fullhash}{HSWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{HS92}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Validity threats in scheduled semistructured research
+  interviews}
+    \field{journaltitle}{Nurs Res.}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Judge2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JTA}{%
+         family={Judge},
+         familyi={J\bibinitperiod},
+         given={Timothy\bibnamedelima A},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Bono},
+         familyi={B\bibinitperiod},
+         given={Joyce\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Psychological Association}%
+    }
+    \strng{namehash}{JTABJE1}
+    \strng{fullhash}{JTABJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{JB00}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{number}{5}
+    \field{pages}{751}
+    \field{title}{Five-factor model of personality and transformational
+  leadership.}
+    \field{volume}{85}
+    \field{journaltitle}{Journal of applied psychology}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Jorgensen2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JM}{%
+         family={Jorgensen},
+         familyi={J\bibinitperiod},
+         given={Magne},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Grimstad},
+         familyi={G\bibinitperiod},
+         given={Stein},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JMGS1}
+    \strng{fullhash}{JMGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{JG12}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \verb{doi}
+    \verb 10.1109/TSE.2011.40
+    \endverb
+    \field{number}{3}
+    \field{pages}{677\bibrangedash 693}
+    \field{title}{Software Development Estimation Biases: The Role of
+  Interdependence}
+    \field{volume}{38}
+    \field{journaltitle}{IEEE Transactions on Software Engineering}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Kruglanski1983}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KAW}{%
+         family={Kruglanski},
+         familyi={K\bibinitperiod},
+         given={Arie\bibnamedelima W},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Ajzen},
+         familyi={A\bibinitperiod},
+         given={Icek},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{KAWAI1}
+    \strng{fullhash}{KAWAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{KA83}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 44}
+    \field{title}{Bias and error in human judgment}
+    \field{volume}{13}
+    \field{journaltitle}{European Journal of Social Psychology}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Kuhnert1987}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KKW}{%
+         family={Kuhnert},
+         familyi={K\bibinitperiod},
+         given={Karl\bibnamedelima W},
+         giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lewis},
+         familyi={L\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academy of Management Briarcliff Manor, NY 10510}%
+    }
+    \strng{namehash}{KKWLP1}
+    \strng{fullhash}{KKWLP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{KL87}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{4}
+    \field{pages}{648\bibrangedash 657}
+    \field{title}{Transactional and transformational leadership: A
+  constructive/developmental analysis}
+    \field{volume}{12}
+    \field{journaltitle}{Academy of Management review}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Leybourne2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LS}{%
+         family={Leybourne},
+         familyi={L\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LS1}
+    \strng{fullhash}{LS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ley07}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1177/875697280703800107
+    \endverb
+    \field{pages}{61\bibrangedash 73}
+    \field{title}{The Changing Bias of Project Management Research: A
+  Consideration of the Literatures and an Application of Extant Theory}
+    \field{volume}{38}
+    \field{journaltitle}{Project Management Journal}
+    \field{month}{03}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Lindsjorn2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LY}{%
+         family={Lindsj{\o}rn},
+         familyi={L\bibinitperiod},
+         given={Yngve},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SDI}{%
+         family={Sj{\o}berg},
+         familyi={S\bibinitperiod},
+         given={Dag\bibnamedelima IK},
+         giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Dings{\o}yr},
+         familyi={D\bibinitperiod},
+         given={Torgeir},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BGR}{%
+         family={Bergersen},
+         familyi={B\bibinitperiod},
+         given={Gunnar\bibnamedelima R},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Dyb{\aa}},
+         familyi={D\bibinitperiod},
+         given={Tore},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{LYSDIDT+1}
+    \strng{fullhash}{LYSDIDTBGRDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Lin+16}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{274\bibrangedash 286}
+    \field{title}{Teamwork quality and project success in software development:
+  A survey of agile development teams}
+    \field{volume}{122}
+    \field{journaltitle}{Journal of Systems and Software}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Madsen2014}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MA}{%
+         family={Madsen},
+         familyi={M\bibinitperiod},
+         given={Adrian},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mckagan},
+         familyi={M\bibinitperiod},
+         given={Sarah},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sayre},
+         familyi={S\bibinitperiod},
+         given={Eleanor},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Martinuk},
+         familyi={M\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bell},
+         familyi={B\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MAMSSE+1}
+    \strng{fullhash}{MAMSSEMMBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mad+14}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Personas as a Powerful Methodology to Design Targeted
+  Professional Development Resources}
+    \field{volume}{2}
+    \field{month}{08}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Masood2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MDS}{%
+         family={Masood},
+         familyi={M\bibinitperiod},
+         given={Dr\bibnamedelima Syed},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MDS1}
+    \strng{fullhash}{MDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mas12}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{317\bibrangedash 329}
+    \field{title}{Transformational Leadership and Attribution Theory: The
+  Situational Strength Perspective.}
+    \field{volume}{9}
+    \field{journaltitle}{Life Science Journal}
+    \field{month}{09}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Mohanai2018}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MR}{%
+         family={Mohanani},
+         familyi={M\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Salman},
+         familyi={S\bibinitperiod},
+         given={Iflaah},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Turhan},
+         familyi={T\bibinitperiod},
+         given={Burak},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Rodríguez},
+         familyi={R\bibinitperiod},
+         given={Pilar},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RP}{%
+         family={Ralph},
+         familyi={R\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRSITB+1}
+    \strng{fullhash}{MRSITBRPRP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Moh+18}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1109/TSE.2018.2877759
+    \endverb
+    \field{title}{Cognitive Biases in Software Engineering: A Systematic
+  Mapping Study}
+    \field{volume}{PP}
+    \field{journaltitle}{IEEE Transactions on Software Engineering}
+    \field{month}{10}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Miaskiewicz2008}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MT}{%
+         family={Miaskiewicz},
+         familyi={M\bibinitperiod},
+         given={Tomasz},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Sumner},
+         familyi={S\bibinitperiod},
+         given={Tamara},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kozar},
+         familyi={K\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MTSTKK1}
+    \strng{fullhash}{MTSTKK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MSK08}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1145/1357054.1357290
+    \endverb
+    \field{pages}{1501\bibrangedash 1510}
+    \field{title}{A Latent Semantic Analysis methodology for the identification
+  and creation of personas}
+    \field{journaltitle}{Conference on Human Factors in Computing Systems -
+  Proceedings}
+    \field{month}{01}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Martin1986}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MPY}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Patricia\bibnamedelima Yancey},
+         giveni={P\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=TBA}{%
+         family={Turner},
+         familyi={T\bibinitperiod},
+         given={Barry\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JAI PRESS INC. 36 Sherwood Place PO Box-1678 Greenwich, Connecticut
+  06836-1678}%
+    }
+    \strng{namehash}{MPYTBA1}
+    \strng{fullhash}{MPYTBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MT86}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{141\bibrangedash 157}
+    \field{title}{Grounded theory and organizational research}
+    \field{volume}{22}
+    \field{journaltitle}{The journal of applied behavioral science}
+    \field{year}{1986}
+  \endentry
+
+  \entry{NayBrock1984}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NBR}{%
+         family={Nay-Brock},
+         familyi={N\bibinithyphendelim B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NBR1}
+    \strng{fullhash}{NBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{NB84}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{pages}{14\bibrangedash 23}
+    \field{title}{A comparison of the questionnaire and interviewing techniques
+  in the collection of sociological data.}
+    \field{volume}{2 1}
+    \field{journaltitle}{The Australian journal of advanced nursing : a
+  quarterly publication of the Royal Australian Nursing Federation}
+    \field{year}{1984}
+  \endentry
+
+  \entry{Norman2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NG}{%
+         family={Norman},
+         familyi={N\bibinitperiod},
+         given={Geoff},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{NG1}
+    \strng{fullhash}{NG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Nor10}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{5}
+    \field{pages}{625\bibrangedash 632}
+    \field{title}{Likert scales, levels of measurement and the “laws” of
+  statistics}
+    \field{volume}{15}
+    \field{journaltitle}{Advances in health sciences education}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Oppenheim1992}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OA}{%
+         family={Oppenheim},
+         familyi={O\bibinitperiod},
+         given={AN},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pinter Publishers}%
+    }
+    \strng{namehash}{OA1}
+    \strng{fullhash}{OA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Opp92}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Questionnaire design, interviewing and attitude measurement}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Patton2002}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PMQ}{%
+         family={Patton},
+         familyi={P\bibinitperiod},
+         given={Michael\bibnamedelima Quinn},
+         giveni={M\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sage Publications Sage CA: Thousand Oaks, CA}%
+    }
+    \strng{namehash}{PMQ1}
+    \strng{fullhash}{PMQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Pat02}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{3}
+    \field{pages}{261\bibrangedash 283}
+    \field{title}{Two decades of developments in qualitative inquiry: A
+  personal, experiential perspective}
+    \field{volume}{1}
+    \field{journaltitle}{Qualitative social work}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Pauleen2005}{inbook}{}
+    \name{author}{1}{}{%
+      {{hash=PD}{%
+         family={Pauleen},
+         familyi={P\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PD1}
+    \strng{fullhash}{PD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Pau05}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{pages}{1794\bibrangedash 1799}
+    \field{title}{Leader-Facilitated Relationship Building in Virtual Teams}
+    \field{month}{01}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Purvanova2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PR}{%
+         family={Purvanova},
+         familyi={P\bibinitperiod},
+         given={Radostina},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bono},
+         familyi={B\bibinitperiod},
+         given={Joyce},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PRBJ1}
+    \strng{fullhash}{PRBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{PB09}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1016/j.leaqua.2009.03.004
+    \endverb
+    \field{pages}{343\bibrangedash 357}
+    \field{title}{Transformational leadership in context: Face-to-face and
+  virtual teams}
+    \field{volume}{20}
+    \field{journaltitle}{The Leadership Quarterly}
+    \field{month}{06}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Peterson2002}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PDK}{%
+         family={Peterson},
+         familyi={P\bibinitperiod},
+         given={Dane\bibnamedelima K.},
+         giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Chung},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KJH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Joong\bibnamedelima Han},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Tamura},
+         familyi={T\bibinitperiod},
+         given={Toshiyuki},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{IS success and failure factors, Attribution theory, IS designers’
+  perceptions}
+    \strng{namehash}{PDKKCKJHTT1}
+    \strng{fullhash}{PDKKCKJHTT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Pet+02}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb https://doi.org/10.1016/S0268-4012(02)00033-6
+    \endverb
+    \field{issn}{0268-4012}
+    \field{number}{6}
+    \field{pages}{421\bibrangedash 439}
+    \field{title}{The perceptions of information systems designers from the
+  United States, Japan, and Korea on success and failure factors}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0268401202000336
+    \endverb
+    \field{volume}{22}
+    \field{journaltitle}{International Journal of Information Management}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Rouse2007}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=RA}{%
+         family={Rouse},
+         familyi={R\bibinitperiod},
+         given={Anne},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Corbitt},
+         familyi={C\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RACB1}
+    \strng{fullhash}{RACB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{RC07}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{1167\bibrangedash 1178}
+    \field{title}{Understanding Information Systems Outsourcing Success and
+  Risks Through the Lens of Cognitive Biases.}
+    \field{month}{01}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Reel1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RJS}{%
+         family={Reel},
+         familyi={R\bibinitperiod},
+         given={John\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{RJS1}
+    \strng{fullhash}{RJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ree99}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{3}
+    \field{pages}{18\bibrangedash 23}
+    \field{title}{Critical success factors in software projects}
+    \field{volume}{16}
+    \field{journaltitle}{IEEE software}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Runeson2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RP}{%
+         family={Runeson},
+         familyi={R\bibinitperiod},
+         given={Per},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={H{\"o}st},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{RPHM1}
+    \strng{fullhash}{RPHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{RH09}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{2}
+    \field{pages}{131\bibrangedash 164}
+    \field{title}{Guidelines for conducting and reporting case study research
+  in software engineering}
+    \field{volume}{14}
+    \field{journaltitle}{Empirical software engineering}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Rickards2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RG}{%
+         family={Rickards},
+         familyi={R\bibinitperiod},
+         given={Gretchen},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Magee},
+         familyi={M\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=AAR}{%
+         family={Artino},
+         familyi={A\bibinitperiod},
+         given={Anthony\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RGMCAAR1}
+    \strng{fullhash}{RGMCAAR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{RMA12}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{407\bibrangedash 10}
+    \field{title}{You Can't Fix by Analysis What You've Spoiled by Design:
+  Developing Survey Instruments and Collecting Validity Evidence.}
+    \field{volume}{4 4}
+    \field{journaltitle}{Journal of graduate medical education}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Ross1977}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=RL}{%
+         family={Ross},
+         familyi={R\bibinitperiod},
+         given={Lee},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{RL1}
+    \strng{fullhash}{RL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ros77}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{Advances in experimental social psychology}
+    \field{pages}{173\bibrangedash 220}
+    \field{title}{The intuitive psychologist and his shortcomings: Distortions
+  in the attribution process}
+    \field{volume}{10}
+    \field{year}{1977}
+  \endentry
+
+  \entry{Runeson2012}{book}{}
+    \name{author}{4}{}{%
+      {{hash=RP}{%
+         family={Runeson},
+         familyi={R\bibinitperiod},
+         given={Per},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Host},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rainer},
+         familyi={R\bibinitperiod},
+         given={Austen},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RB}{%
+         family={Regnell},
+         familyi={R\bibinitperiod},
+         given={Bjorn},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{RPHMRARB1}
+    \strng{fullhash}{RPHMRARB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Run+12}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Case study research in software engineering: Guidelines and
+  examples}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Pedro2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SAP}{%
+         family={Soto-Acosta},
+         familyi={S\bibinithyphendelim A\bibinitperiod},
+         given={Pedro},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor & Francis}%
+    }
+    \strng{namehash}{SAP1}
+    \strng{fullhash}{SAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SA20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1080/10580530.2020.1814461
+    \endverb
+    \field{number}{4}
+    \field{pages}{260\bibrangedash 266}
+    \field{title}{COVID-19 Pandemic: Shifting Digital Transformation to a
+  High-Speed Gear}
+    \field{volume}{37}
+    \field{journaltitle}{Information Systems Management}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Sullivan2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SGM}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={Gail\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AJAR}{%
+         family={Artino\bibnamedelima Jr},
+         familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={Anthony\bibnamedelima R},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Accreditation Council for Graduate Medical Education Suite 2000,
+  515~…}%
+    }
+    \strng{namehash}{SGMAJAR1}
+    \strng{fullhash}{SGMAJAR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SAJ13}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{4}
+    \field{pages}{541\bibrangedash 542}
+    \field{title}{Analyzing and interpreting data from Likert-type scales}
+    \field{volume}{5}
+    \field{journaltitle}{Journal of graduate medical education}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Scheuren2004}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=SF}{%
+         family={Scheuren},
+         familyi={S\bibinitperiod},
+         given={Fritz},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Statistical Association Alexandria}%
+    }
+    \strng{namehash}{SF1}
+    \strng{fullhash}{SF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sch04}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{What is a Survey?}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Shore2008}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SB}{%
+         family={Shore},
+         familyi={S\bibinitperiod},
+         given={Barry},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SB1}
+    \strng{fullhash}{SB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sho08}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1002/pmj.20082
+    \endverb
+    \field{pages}{5 \bibrangedash  16}
+    \field{title}{Systematic Biases and Culture in Project Failures}
+    \field{volume}{39}
+    \field{journaltitle}{Project Management Journal}
+    \field{month}{12}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Snead2014}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SK}{%
+         family={Snead},
+         familyi={S\bibinitperiod},
+         given={Ken},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Magal},
+         familyi={M\bibinitperiod},
+         given={Simha},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Christensen},
+         familyi={C\bibinitperiod},
+         given={Linda},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CE}{%
+         family={Charo},
+         familyi={C\bibinitperiod},
+         given={Emmanuel},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SKMSCLCE1}
+    \strng{fullhash}{SKMSCLCE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sne+14}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1007/s11213-014-9328-x
+    \endverb
+    \field{title}{Attribution Theory: A Theoretical Framework for Understanding
+  Information Systems Success}
+    \field{volume}{28}
+    \field{journaltitle}{Systemic Practice and Action Research}
+    \field{month}{06}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Sweet2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SK}{%
+         family={Sweet},
+         familyi={S\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SK1}
+    \strng{fullhash}{SK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Swe20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.33423/jop.v20i1.2763
+    \endverb
+    \field{title}{A Fit Model of Organizational Leadership}
+    \field{volume}{20}
+    \field{journaltitle}{Journal of Organizational Psychology}
+    \field{month}{04}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Thompson2006}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TL}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={L.F.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Coovert},
+         familyi={C\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TLCM1}
+    \strng{fullhash}{TLCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{TC06}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1037/11263-010
+    \endverb
+    \field{pages}{213\bibrangedash 241}
+    \field{title}{Understanding and developing virtual computer-supported
+  cooperative work teams}
+    \field{journaltitle}{Creating High-Tech Teams}
+    \field{month}{01}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Trope1989}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TY}{%
+         family={Trope},
+         familyi={T\bibinitperiod},
+         given={Yaacov},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CO}{%
+         family={Cohen},
+         familyi={C\bibinitperiod},
+         given={Ofra},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TYCO1}
+    \strng{fullhash}{TYCO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{TC89}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    The present study is concerned with the perceptual and inferential
+  processes leading to dispositional attribution. Subjects were presented with
+  unambiguous emotional reactions (e.g., a happy or a fearful reaction) to
+  ambiguous situations (e.g., a situation evoking both happiness and fear) and
+  to unambiguous situations (e.g., a situation evoking happiness). The
+  subjects' task was to identify the emotions that the reactions expressed and
+  those that the situation evoked. These identifications showed that the
+  reactions produced strong contextual effects on the perceived emotional
+  meaning of the ambiguous situations but not on the perceived emotional
+  meaning of the unambiguous situations. The experiment also assessed subjects'
+  attributions of the reactions to emotional dispositions. We found that the
+  actor's reactions produced a strong effect on dispositional attribution when
+  the situation was unambiguous but only a weak effect when the situation was
+  ambiguous. These results were interpreted in terms of Trope's (1986)
+  two-stage model of dispositional attribution.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/0022-1031(89)90009-7
+    \endverb
+    \field{issn}{0022-1031}
+    \field{number}{2}
+    \field{pages}{142\bibrangedash 158}
+    \field{title}{Perceptual and inferential determinants of
+  behavior-correspondent attributions}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/0022103189900097
+    \endverb
+    \field{volume}{25}
+    \field{journaltitle}{Journal of Experimental Social Psychology}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Townsed1998}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TA}{%
+         family={Townsend},
+         familyi={T\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={DeMarie},
+         familyi={D\bibinitperiod},
+         given={Samuel},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hendrickson},
+         familyi={H\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TADSHA1}
+    \strng{fullhash}{TADSHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{TDH98}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.5465/AME.1998.1109047
+    \endverb
+    \field{title}{Virtual Teams: Technology and the Workplace of the Future}
+    \field{volume}{12}
+    \field{journaltitle}{Academy of Management Perspectives}
+    \field{month}{08}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Trope1986}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TY}{%
+         family={Trope},
+         familyi={T\bibinitperiod},
+         given={Yaacov},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Psychological Association}%
+    }
+    \strng{namehash}{TY1}
+    \strng{fullhash}{TY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Tro86}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{3}
+    \field{pages}{239}
+    \field{title}{Identification and inferential processes in dispositional
+  attribution.}
+    \field{volume}{93}
+    \field{journaltitle}{Psychological review}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Tidwell2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TL}{%
+         family={Tidwell},
+         familyi={T\bibinitperiod},
+         given={Lisa},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Walther},
+         familyi={W\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TLWJ1}
+    \strng{fullhash}{TLWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{TW02}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1111/j.1468-2958.2002.tb00811.x
+    \endverb
+    \field{pages}{317\bibrangedash 348}
+    \field{title}{Computer-Mediated Communication Effects on Disclosure,
+  Impressions, and Interpersonal Evaluations: Getting to Know One Another a Bit
+  at a Time}
+    \field{volume}{28}
+    \field{journaltitle}{Human Communication Research}
+    \field{month}{07}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Walther2002}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=WJ}{%
+         family={Walther},
+         familyi={W\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Boos},
+         familyi={B\bibinitperiod},
+         given={Margarete},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JK}{%
+         family={Jonas},
+         familyi={J\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJBMJK1}
+    \strng{fullhash}{WJBMJK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{WBJ02}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1109/HICSS.2002.994427
+    \endverb
+    \field{pages}{269}
+    \field{title}{Misattribution and Attributional Redirection in Distributed
+  Virtual Groups.}
+    \field{month}{01}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Wicks2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WD}{%
+         family={Wicks},
+         familyi={W\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WD1}
+    \strng{fullhash}{WD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Wic17}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1108/QROM-08-2016-1408
+    \endverb
+    \field{pages}{169\bibrangedash 170}
+    \field{title}{The Coding Manual for Qualitative Researchers (3rd
+  edition)The Coding Manual for Qualitative Researchers (3rd edition) Johnny
+  Saldaña Sage 2015 ISBN-13: 978-1473902497}
+    \field{volume}{12}
+    \field{journaltitle}{Qualitative Research in Organizations and Management:
+  An International Journal}
+    \field{month}{06}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Yin2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=YRK}{%
+         family={Yin},
+         familyi={Y\bibinitperiod},
+         given={Robert\bibnamedelima K},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {sage}%
+    }
+    \strng{namehash}{YRK1}
+    \strng{fullhash}{YRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Yin09}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{title}{Case study research: Design and methods}
+    \field{volume}{5}
+    \field{year}{2009}
+  \endentry
+\enddatalist
+\endinput
