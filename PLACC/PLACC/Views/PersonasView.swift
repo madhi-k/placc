@@ -7,7 +7,14 @@
 
 import SwiftUI
 
+struct Persona {
+    let title: String
+    let description: String
+    let imageName: String
+}
+
 struct PersonasView: View {
+    let personas = Utils.personas
     let layout = [
         GridItem(.flexible())
     ]
@@ -17,8 +24,8 @@ struct PersonasView: View {
             ScrollView {
                 VStack(alignment: .leading) {
                     LazyVGrid(columns: layout, spacing: 6) {
-                        ForEach(0..<5) { _ in
-                            PersonaCard()
+                        ForEach(personas, id: \.title) { persona in
+                            PersonaCard(persona: persona)
                                 .shadow(color: .gray.opacity(0.3), radius: 10, x: 0, y: 0)
                                 .padding()
                         }
@@ -32,16 +39,18 @@ struct PersonasView: View {
 }
 
 struct PersonaCard: View {
+    var persona: Persona
+    
     var body: some View {
         VStack {
-            Image("mobile_user")
+            Image(persona.imageName)
                 .resizable()
                 .scaledToFit()
                 .padding(.top, 60)
                 .padding(.horizontal, 12)
                 .padding(.bottom, 12)
-            Text("Distraction Monster").font(.alata(size: 25)).padding(.vertical, 6)
-            Text("Attributions of this persona relate to the lack of focus one might exhibit during team meeting activities")
+            Text(persona.title).font(.alata(size: 25)).padding(.vertical, 6)
+            Text(persona.description)
         }.padding()
         .background(Color.white)
         .cornerRadius(20)

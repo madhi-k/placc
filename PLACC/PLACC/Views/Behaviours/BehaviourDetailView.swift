@@ -21,7 +21,6 @@ struct BehaviourDetailView: View {
             Image(behaviour.imageName)
                 .resizable()
                 .scaledToFit()
-                .padding(.top, 60)
                 .padding(.horizontal, 12)
                 .padding(.bottom, 12)
             HStack {

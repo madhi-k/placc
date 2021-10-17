@@ -32,32 +32,35 @@ struct QuestionnaireDataView: View {
         VStack {
             HStack {
                 Text("Associated with the personas:")
-                Spacer()
+                    .foregroundColor(Color("placc_purple"))
+                    .font(.alata(size: 25))
             }
             HStack {
                 ForEach(personas, id: \.self) { persona in 
                     Image(persona)
                         .resizable()
                         .scaledToFit()
-                        .padding(.top, 60)
+                        .frame(height: 90)
                         .padding(.horizontal, 12)
-                        .padding(.bottom, 12)
+                        .padding(.bottom, 8)
                 }
             }
             HStack {
                 Text("According to the PLACC survey")
-                Spacer()
+                    .foregroundColor(Color("placc_purple"))
+                    .font(.alata(size: 25))
             }
             ZStack {
-                Color.blue.opacity(0.4)
+                Color("placc_lavender")
                 Text(attributions).padding()
             }.cornerRadius(22)
             HStack {
                 Text("How to deal with it")
-                Spacer()
+                    .foregroundColor(Color("placc_purple"))
+                    .font(.alata(size: 25))
             }
             ZStack {
-                Color.blue.opacity(0.4)
+                Color("placc_lavender")
                 Text(solution).padding()
             }.cornerRadius(22)
         }
@@ -72,7 +75,8 @@ struct OpenQuestionsView: View {
         VStack {
             HStack {
                 Text("From the open questions")
-                Spacer()
+                    .foregroundColor(Color("placc_purple"))
+                    .font(.alata(size: 25))
             }
             ZStack {
                 Color.blue.opacity(0.4)
@@ -80,7 +84,8 @@ struct OpenQuestionsView: View {
             }.cornerRadius(22)
             HStack {
                 Text("How to deal with it")
-                Spacer()
+                    .foregroundColor(Color("placc_purple"))
+                    .font(.alata(size: 25))
             }
             ZStack {
                 Color.blue.opacity(0.4)

@@ -24,7 +24,7 @@ struct BehavioursView: View {
                         ForEach(behaviours, id: \.title) { behaviour in
                             NavigationLink(destination: BehaviourDetailView(behaviour: behaviour)) {
                                 BehaviourCardView(behaviour: behaviour)
-                                    .shadow(color: .gray.opacity(0.3), radius: 10, x: 0, y: 0)
+                                    .shadow(color: .gray.opacity(0.6), radius: 10, x: 0, y: 0)
                                     .padding(6)
                             }
                         }
@@ -43,19 +43,21 @@ struct BehaviourCardView: View {
     var body: some View {
         ZStack {
             Color.black
-            VStack {
+            VStack(alignment: .leading) {
+                Spacer()
                 Image(behaviour.imageName)
                     .resizable()
                     .scaledToFit()
-                    .padding(.top, 60)
                     .padding(.horizontal, 12)
-                    .padding(.bottom, 12)
+                    .padding(.bottom, 16)
                 Text(behaviour.title)
                     .multilineTextAlignment(.leading)
                     .foregroundColor(.white)
-                    .padding(.bottom, 12)
+                    .padding(.bottom, 16)
+                    .padding(.horizontal, 12)
             }
         }.cornerRadius(22)
+        .frame(height: 230)
     }
 }
 

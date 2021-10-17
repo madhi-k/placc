@@ -50,6 +50,8 @@ enum Utils {
         
     ]
     
+    static let personas: [Persona] = [Persona(title: "Distraction Monster", description: "", imageName: "distraction")]
+    
     
     static func write(path: String) {
         let string = behaviours.json
