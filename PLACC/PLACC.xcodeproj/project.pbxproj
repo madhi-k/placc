@@ -23,6 +23,8 @@
 		5986B211271B40BF00CF2C76 /* YoungPLManualView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B210271B40BE00CF2C76 /* YoungPLManualView.swift */; };
 		5986B213271B427C00CF2C76 /* ExpandableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B212271B427C00CF2C76 /* ExpandableView.swift */; };
 		5986B215271B440600CF2C76 /* PLACCGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B214271B440600CF2C76 /* PLACCGuideView.swift */; };
+		5986B219271C1AC500CF2C76 /* Behaviour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B218271C1AC500CF2C76 /* Behaviour.swift */; };
+		5986B21B271C208800CF2C76 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B21A271C208800CF2C76 /* Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +65,8 @@
 		5986B210271B40BE00CF2C76 /* YoungPLManualView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoungPLManualView.swift; sourceTree = "<group>"; };
 		5986B212271B427C00CF2C76 /* ExpandableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableView.swift; sourceTree = "<group>"; };
 		5986B214271B440600CF2C76 /* PLACCGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PLACCGuideView.swift; sourceTree = "<group>"; };
+		5986B218271C1AC500CF2C76 /* Behaviour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Behaviour.swift; sourceTree = "<group>"; };
+		5986B21A271C208800CF2C76 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,17 +117,13 @@
 		5986B1D2271B081A00CF2C76 /* PLACC */ = {
 			isa = PBXGroup;
 			children = (
+				5986B217271C1AB000CF2C76 /* Models */,
+				5986B216271C1A7D00CF2C76 /* Views */,
 				5986B20E271B3C1E00CF2C76 /* Assets.xcassets */,
 				5986B203271B143E00CF2C76 /* Extensions */,
 				5986B202271B13CC00CF2C76 /* Info.plist */,
-				5986B1FD271B09EC00CF2C76 /* Behaviours */,
 				5986B1D3271B081A00CF2C76 /* PLACCApp.swift */,
-				5986B1D5271B081A00CF2C76 /* ContentView.swift */,
 				5986B1D9271B081C00CF2C76 /* Preview Content */,
-				5986B20C271B303700CF2C76 /* PersonasView.swift */,
-				5986B210271B40BE00CF2C76 /* YoungPLManualView.swift */,
-				5986B212271B427C00CF2C76 /* ExpandableView.swift */,
-				5986B214271B440600CF2C76 /* PLACCGuideView.swift */,
 			);
 			path = PLACC;
 			sourceTree = "<group>";
@@ -170,6 +170,28 @@
 				5986B204271B146800CF2C76 /* Font+Extensions.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		5986B216271C1A7D00CF2C76 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5986B1D5271B081A00CF2C76 /* ContentView.swift */,
+				5986B20C271B303700CF2C76 /* PersonasView.swift */,
+				5986B210271B40BE00CF2C76 /* YoungPLManualView.swift */,
+				5986B212271B427C00CF2C76 /* ExpandableView.swift */,
+				5986B214271B440600CF2C76 /* PLACCGuideView.swift */,
+				5986B1FD271B09EC00CF2C76 /* Behaviours */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5986B217271C1AB000CF2C76 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				5986B218271C1AC500CF2C76 /* Behaviour.swift */,
+				5986B21A271C208800CF2C76 /* Utils.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -309,10 +331,12 @@
 				5986B211271B40BF00CF2C76 /* YoungPLManualView.swift in Sources */,
 				5986B207271B1AB200CF2C76 /* BehaviourDetailView.swift in Sources */,
 				5986B213271B427C00CF2C76 /* ExpandableView.swift in Sources */,
+				5986B219271C1AC500CF2C76 /* Behaviour.swift in Sources */,
 				5986B20B271B2D6500CF2C76 /* VariationDetailView.swift in Sources */,
 				5986B205271B146800CF2C76 /* Font+Extensions.swift in Sources */,
 				5986B1D4271B081A00CF2C76 /* PLACCApp.swift in Sources */,
 				5986B20D271B303700CF2C76 /* PersonasView.swift in Sources */,
+				5986B21B271C208800CF2C76 /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

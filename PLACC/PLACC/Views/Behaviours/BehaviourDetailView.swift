@@ -9,15 +9,16 @@ import SwiftUI
 
 struct BehaviourDetailView: View {
     @Environment(\.presentationMode) var presentation
+    let behaviour: Behaviour
     
     var body: some View {
         ScrollView {
             HStack {
-                Text("Joining meetings via mobile phone")
+                Text(behaviour.title)
                     .font(.alata(size: 40))
                 Spacer()
             }.padding(.horizontal)
-            Image("mobile_user")
+            Image(behaviour.imageName)
                 .resizable()
                 .scaledToFit()
                 .padding(.top, 60)
@@ -28,31 +29,24 @@ struct BehaviourDetailView: View {
                 Spacer()
             }.padding(.horizontal)
             
-            ExpandableView(headerTitle: "First Variation") {
-                Text("I am displayed")
-            }
-            
-            ExpandableView(headerTitle: "Second Variation") {
-                VariationDetailView(isSurveyBehaviour: true)
-            }
-            
-            ExpandableView(headerTitle: "Third Variation") {
-                VariationDetailView(isSurveyBehaviour: false)
+            ForEach(behaviour.variations, id: \.self) { variation in
+                ExpandableView(headerTitle: variation.title) {
+                    VariationDetailView(variation: variation)
+                }
             }
         }
-            .font(.alata())
-            .navigationBarTitleDisplayMode(.inline)
-            .navigationBarBackButtonHidden(true)
-            .navigationBarItems(leading: Image(systemName: "arrow.left").onTapGesture {
+        .font(.alata())
+        .navigationBarTitleDisplayMode(.inline)
+        .navigationBarBackButtonHidden(true)
+        .navigationBarItems(leading: Image(systemName:"arrow.left").onTapGesture {
                 self.presentation.wrappedValue.dismiss()
             })
+        }
     }
-}
-
 
 
 struct BehaviourDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        BehaviourDetailView()
+        BehaviourDetailView(behaviour: Utils.behaviours[0])
     }
 }

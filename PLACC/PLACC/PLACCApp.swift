@@ -15,6 +15,7 @@ struct PLACCApp: App {
         UITabBar.appearance().backgroundColor = .white
         UITabBarItem.appearance().setTitleTextAttributes([NSAttributedString.Key.font: UIFont(name: "Alata-Regular", size: 14)!], for: .normal)
         UITabBarItem.appearance().setTitleTextAttributes([NSAttributedString.Key.font: UIFont(name: "Alata-Regular", size: 14)!], for: .selected)
+        Utils.write(path: "/Users/klaudiamadhi/Desktop/behaviours.json")
     }
     
     var body: some Scene {
