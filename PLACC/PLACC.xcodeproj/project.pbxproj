@@ -20,6 +20,9 @@
 		5986B20B271B2D6500CF2C76 /* VariationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B20A271B2D6500CF2C76 /* VariationDetailView.swift */; };
 		5986B20D271B303700CF2C76 /* PersonasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B20C271B303700CF2C76 /* PersonasView.swift */; };
 		5986B20F271B3C1E00CF2C76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5986B20E271B3C1E00CF2C76 /* Assets.xcassets */; };
+		5986B211271B40BF00CF2C76 /* YoungPLManualView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B210271B40BE00CF2C76 /* YoungPLManualView.swift */; };
+		5986B213271B427C00CF2C76 /* ExpandableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B212271B427C00CF2C76 /* ExpandableView.swift */; };
+		5986B215271B440600CF2C76 /* PLACCGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B214271B440600CF2C76 /* PLACCGuideView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +60,9 @@
 		5986B20A271B2D6500CF2C76 /* VariationDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariationDetailView.swift; sourceTree = "<group>"; };
 		5986B20C271B303700CF2C76 /* PersonasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonasView.swift; sourceTree = "<group>"; };
 		5986B20E271B3C1E00CF2C76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5986B210271B40BE00CF2C76 /* YoungPLManualView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoungPLManualView.swift; sourceTree = "<group>"; };
+		5986B212271B427C00CF2C76 /* ExpandableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableView.swift; sourceTree = "<group>"; };
+		5986B214271B440600CF2C76 /* PLACCGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PLACCGuideView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +121,9 @@
 				5986B1D5271B081A00CF2C76 /* ContentView.swift */,
 				5986B1D9271B081C00CF2C76 /* Preview Content */,
 				5986B20C271B303700CF2C76 /* PersonasView.swift */,
+				5986B210271B40BE00CF2C76 /* YoungPLManualView.swift */,
+				5986B212271B427C00CF2C76 /* ExpandableView.swift */,
+				5986B214271B440600CF2C76 /* PLACCGuideView.swift */,
 			);
 			path = PLACC;
 			sourceTree = "<group>";
@@ -295,8 +304,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5986B1D6271B081A00CF2C76 /* ContentView.swift in Sources */,
+				5986B215271B440600CF2C76 /* PLACCGuideView.swift in Sources */,
 				5986B1FF271B0A5100CF2C76 /* BehavioursView.swift in Sources */,
+				5986B211271B40BF00CF2C76 /* YoungPLManualView.swift in Sources */,
 				5986B207271B1AB200CF2C76 /* BehaviourDetailView.swift in Sources */,
+				5986B213271B427C00CF2C76 /* ExpandableView.swift in Sources */,
 				5986B20B271B2D6500CF2C76 /* VariationDetailView.swift in Sources */,
 				5986B205271B146800CF2C76 /* Font+Extensions.swift in Sources */,
 				5986B1D4271B081A00CF2C76 /* PLACCApp.swift in Sources */,

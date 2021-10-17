@@ -20,18 +20,17 @@ struct ContentView: View {
                     Image(systemName: "person.crop.circle")
                     Text("Personas")
                 }
-            PersonasView()
+            YoungPLManualView()
                 .tabItem {
                     Image(systemName: "book")
                     Text("Young PL's manual")
                 }
-            PersonasView()
+            PLACCGuideView()
                 .tabItem {
                     Image(systemName: "questionmark")
-                    Text("How to use")
+                    Text("PLACC guide")
                 }
         }
-        
     }
 }
 
