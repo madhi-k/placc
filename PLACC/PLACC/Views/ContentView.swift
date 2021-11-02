@@ -8,34 +8,34 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State var selectedIndex: Int
+    
     var body: some View {
-        TabView {
+        TabView(selection: self.$selectedIndex) {
             BehavioursView()
                 .tabItem {
                     Image(systemName: "tornado")
                     Text("Behaviours")
                 }
+                .tag(0)
             PersonasView()
                 .tabItem {
                     Image(systemName: "person.crop.circle")
                     Text("Personas")
                 }
+                .tag(1)
             YoungPLManualView()
                 .tabItem {
                     Image(systemName: "book")
                     Text("Young PL's manual")
                 }
+                .tag(2)
             PLACCGuideView()
                 .tabItem {
                     Image(systemName: "questionmark")
                     Text("PLACC guide")
                 }
+                .tag(3)
         }
-    }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
     }
 }

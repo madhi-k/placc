@@ -9,7 +9,19 @@ import SwiftUI
 
 @main
 struct PLACCApp: App {
+    @State var isAppAlreadyLaunchedOnce: Int
+    
     init() {
+        let defaults = UserDefaults.standard
+        let firstLaunch = defaults.string(forKey: "first_launch") == nil
+        
+        if firstLaunch {
+            defaults.set(true, forKey: "first_launch")
+            isAppAlreadyLaunchedOnce = 3
+        } else {
+            isAppAlreadyLaunchedOnce = 0
+        }
+        
         UINavigationBar.appearance().largeTitleTextAttributes = [.font: UIFont(name: "Alata-Regular", size: 40)!]
         UINavigationBar.appearance().titleTextAttributes = [.font: UIFont(name: "Alata-Regular", size: 22)!]
         UITabBar.appearance().backgroundColor = .white
@@ -20,7 +32,7 @@ struct PLACCApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(selectedIndex: isAppAlreadyLaunchedOnce)
         }
     }
 }
