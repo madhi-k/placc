@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  16 OCT 2021 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.4)  6 NOV 2021 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1406,7 +1406,7 @@ LaTeX Info: Redefining \] on input line 2924.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+pplx on input line 2
-6.
+5.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
@@ -1415,7 +1415,7 @@ File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 LaTeX Warning: Label `Analysis' multiply defined.
 
 
-LaTeX Warning: Label `tab:multicol' multiply defined.
+LaTeX Warning: Label `Personas' multiply defined.
 
 
 LaTeX Warning: Label `tab:multicol' multiply defined.
@@ -1433,13 +1433,22 @@ LaTeX Warning: Label `tab:multicol' multiply defined.
 LaTeX Warning: Label `tab:multicol' multiply defined.
 
 
-LaTeX Warning: Label `tab:hiding' multiply defined.
+LaTeX Warning: Label `tab:multicol' multiply defined.
 
 
 LaTeX Warning: Label `tab:multicol' multiply defined.
 
 
-LaTeX Warning: Label `tab:hiding' multiply defined.
+LaTeX Warning: Label `tab:multicol' multiply defined.
+
+
+LaTeX Warning: Label `tab:multicol' multiply defined.
+
+
+LaTeX Warning: Label `tab:multicol' multiply defined.
+
+
+LaTeX Warning: Label `tab:multicol' multiply defined.
 
 
 LaTeX Warning: Label `tab:multicol' multiply defined.
@@ -1456,32 +1465,32 @@ LaTeX Warning: Label `tab:multicol' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-Package nag Info: pgf.sty is broken: disabling dollar check on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 25.
 Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
-line 26.
+line 25.
 Package nag Info: Command \RaggedRight not defined, skipping amendment on input
- line 26.
-Package scrbase Info: activating american \contentsname on input line 26.
-Package scrbase Info: activating american \listfigurename on input line 26.
-Package scrbase Info: activating american \listtablename on input line 26.
+ line 25.
+Package scrbase Info: activating american \contentsname on input line 25.
+Package scrbase Info: activating american \listfigurename on input line 25.
+Package scrbase Info: activating american \listtablename on input line 25.
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/biblatex/lbx/american.lbx
@@ -1536,8 +1545,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
+Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference segment=0 on input line 25.
 
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1562,19 +1571,19 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \c@lstlisting=\count477
-Package scrhack Info: undefining \float@addtolists on input line 26.
+Package scrhack Info: undefining \float@addtolists on input line 25.
 
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
 
-LaTeX Info: Redefining \microtypecontext on input line 26.
+LaTeX Info: Redefining \microtypecontext on input line 25.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 26.
+LaTeX Info: Redefining \showhyphens on input line 25.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1589,7 +1598,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 25.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1603,9 +1612,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count478
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -1617,7 +1626,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 26.
+(scrbook)           before \begin{document} on input line 25.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -1627,9 +1636,9 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \BKM@id=\count479
 ))
 Package nag Info: Command \hc@caption not defined, skipping amendment on input 
-line 26.
+line 25.
 Package nag Info: Command \topcaption not defined, skipping amendment on input 
-line 26.
+line 25.
 
 (./pages/cover.tex
 <logos/tum.pdf, id=7, 54.02504pt x 28.452pt>
@@ -1718,20 +1727,6 @@ Package pdftex.def Info: logos/faculty.png  used on input line 36.
 ])
 (./pages/abstract.tex
 chapter without number
-LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
-9.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pplx.fd
-File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 17--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
 ) (./pages/abstract_german.tex [4
 
 
@@ -1743,7 +1738,7 @@ chapter without number
 
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 41
+Package tocbasic Info: character protrusion at toc deactivated on input line 40
 .
  (./main.toc [6
 
@@ -1752,7 +1747,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 41
 
 ]
 LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 128.
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 130.
  [7])
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -1765,28 +1760,38 @@ chapter 1.
 
 ] [2] [3] [4] [5] [6] [7]) (./chapters/02_background.tex [8]
 chapter 2.
-
-LaTeX Warning: Reference `DisAttSE' on page 9 undefined on input line 5.
-
-<figures/TwoStageModel.png, id=343, 499.8675pt x 167.62625pt>
-File: figures/TwoStageModel.png Graphic file (type png)
-<use figures/TwoStageModel.png>
-Package pdftex.def Info: figures/TwoStageModel.png  used on input line 21.
-(pdftex.def)             Requested size: 418.25555pt x 140.26282pt.
 [9
 
 
-] [10 <./figures/TwoStageModel.png>]) (./chapters/03_relatedwork.tex [11]
+]
+<figures/TwoStageModel.pdf, id=363, 499.8675pt x 161.64389pt>
+File: figures/TwoStageModel.pdf Graphic file (type pdf)
+<use figures/TwoStageModel.pdf>
+Package pdftex.def Info: figures/TwoStageModel.pdf  used on input line 23.
+(pdftex.def)             Requested size: 418.25555pt x 135.25703pt.
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
+31.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
+) [10 <./figures/TwoStageModel.pdf>]
+<figures/TwoDimensionsOfAttributions.pdf, id=388, 554.07pt x 392.42609pt>
+File: figures/TwoDimensionsOfAttributions.pdf Graphic file (type pdf)
+<use figures/TwoDimensionsOfAttributions.pdf>
+Package pdftex.def Info: figures/TwoDimensionsOfAttributions.pdf  used on input
+ line 51.
+(pdftex.def)             Requested size: 418.25555pt x 296.23497pt.
+ [11] [12 <./figures/TwoDimensionsOfAttributions.pdf>]
+[13] [14] [15] [16] [17]) (./chapters/03_relatedwork.tex [18]
 chapter 3.
-[12
+[19
 
 
-]) (./chapters/04_interviews.tex [13]
+] [20] [21] [22] [23]) (./chapters/04_interviews.tex [24]
 chapter 4.
-[14
+[25
 
 
-] [15]
+] [26]
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
 []|\T1/pplx/m/n/10.95 (+20) Code
  []
@@ -1797,54 +1802,9 @@ Overfull \hbox (1.27827pt too wide) in paragraph at lines 46--46
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 48--50
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 50--52
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 52--54
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 54--56
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 56--58
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 58--60
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 60--62
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 62--64
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 66--68
-[]|\T1/pplx/m/n/10.95 (+20) Voice and video record-ing via
- []
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16] [17]
+[27]
 Underfull \hbox (badness 1939) in paragraph at lines 92--93
 []|\T1/pplx/m/n/10.95 (+20) How has the ex-pe-ri-ence as a
  []
@@ -1889,28 +1849,48 @@ Overfull \hbox (7.68498pt too wide) in paragraph at lines 87--139
  [][] 
  []
 
-
-Underfull \hbox (badness 1337) in paragraph at lines 161--162
-\T1/pplx/m/n/10.95 (+20) in your in-ter-ac-tion with the
+[28] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|\T1/pplx/m/n/10.95 (+20) Question
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
-[]\T1/pplx/m/n/10.95 (+20) Were there be-hav-iors you
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+[]|\T1/pplx/m/n/10.95 (+20) Core ques-
  []
 
 
-Overfull \hbox (35.9936pt too wide) in alignment at lines 145--197
- [] [] [] 
+Underfull \hbox (badness 2150) in paragraph at lines 162--163
+\T1/pplx/m/n/10.95 (+20) tions of in-
  []
 
-[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29])
-(./chapters/05_survey.tex [30]
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+\T1/pplx/m/n/10.95 (+20) ap-pro-pri-ate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+[]\T1/pplx/m/n/10.95 (+20) Communication-based:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+[]|\T1/pplx/m/n/10.95 (+20) Core ques-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\T1/pplx/m/n/10.95 (+20) tions to
+ []
+
+[30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40])
+(./chapters/05_survey.tex [41]
 chapter 5.
-[31
+[42
 
 
-] [32] [33] [34] [35] [36]
+] [43] [44] [45] [46] [47]
 Overfull \hbox (4.90825pt too wide) in alignment at lines 99--149
  [] [] [] [] [] [] 
  []
@@ -1925,7 +1905,7 @@ Overfull \hbox (4.90825pt too wide) in alignment at lines 201--226
  [] [] [] [] [] [] 
  []
 
-[37] [38] [39]
+[48] [49] [50]
 Underfull \hbox (badness 10000) in paragraph at lines 267--267
 []|\T1/pplx/m/n/10.95 (+20) Strongly
  []
@@ -1935,7 +1915,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--268
 []|\T1/pplx/m/n/10.95 (+20) Strongly
  []
 
-[40] [41]
+[51] [52]
 Underfull \hbox (badness 10000) in paragraph at lines 298--298
 []|\T1/pplx/m/n/10.95 (+20) Subjects un-der
  []
@@ -1985,7 +1965,7 @@ Underfull \hbox (badness 3417) in paragraph at lines 304--305
 []|\T1/pplx/m/n/10.95 (+20) Although tech-ni-cally a
  []
 
-[42]
+[53]
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarypatterns.code.tex
 File: tikzlibrarypatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
@@ -1993,20 +1973,20 @@ File: tikzlibrarypatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibrarypattern
 s.code.tex
 File: pgflibrarypatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)) [43]
-Package pgfplots info on input line 365: Using 'lua backend=false' for axis: x 
+)) [54]
+Package pgfplots info on input line 364: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
 
 
-LaTeX Warning: Float too large for page by 103.5151pt on input line 379.
+LaTeX Warning: Float too large for page by 103.5151pt on input line 378.
 
-) (./chapters/06_attributionbasedpersonas.tex [44]
+) (./chapters/06_attributionbasedpersonas.tex [55]
 chapter 6.
-[45
+[56
 
 
-] [46] [47]
-<figures/TheUnprofessional.png, id=626, 376.40625pt x 376.40625pt>
+] [57] [58]
+<figures/TheUnprofessional.png, id=893, 376.40625pt x 376.40625pt>
 File: figures/TheUnprofessional.png Graphic file (type png)
 <use figures/TheUnprofessional.png>
 Package pdftex.def Info: figures/TheUnprofessional.png  used on input line 61.
@@ -2017,13 +1997,13 @@ Overfull \hbox (22.62248pt too wide) in paragraph at lines 65--65
  []
 
 
-Overfull \hbox (22.62248pt too wide) in paragraph at lines 71--71
-[]|[]| 
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+[]|\T1/pplx/m/n/10.95 (+20) Generally when un-nec-es-sary
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-[]|\T1/pplx/m/n/10.95 (+20) Generally when un-nec-es-sary
+Overfull \hbox (22.62248pt too wide) in paragraph at lines 71--71
+[]|[]| 
  []
 
 
@@ -2036,8 +2016,8 @@ Overfull \hbox (15.07956pt too wide) in alignment at lines 53--80
  [] [] [] 
  []
 
-[48 <./figures/TheUnprofessional.png>]
-<figures/Ego.png, id=633, 376.40625pt x 376.40625pt>
+[59 <./figures/TheUnprofessional.png>]
+<figures/Ego.png, id=900, 376.40625pt x 376.40625pt>
 File: figures/Ego.png Graphic file (type png)
 <use figures/Ego.png>
 Package pdftex.def Info: figures/Ego.png  used on input line 94.
@@ -2048,7 +2028,7 @@ Overfull \hbox (22.62248pt too wide) in paragraph at lines 98--98
  []
 
 
-Overfull \hbox (22.62248pt too wide) in paragraph at lines 107--107
+Overfull \hbox (22.62248pt too wide) in paragraph at lines 104--104
 []|[]| 
  []
 
@@ -2062,8 +2042,8 @@ Overfull \hbox (15.07956pt too wide) in alignment at lines 86--116
  [] [] [] 
  []
 
-[49] [50 <./figures/Ego.png>]
-<figures/TheStranger.png, id=644, 376.40625pt x 376.40625pt>
+[60] [61 <./figures/Ego.png>]
+<figures/TheStranger.png, id=911, 376.40625pt x 376.40625pt>
 File: figures/TheStranger.png Graphic file (type png)
 <use figures/TheStranger.png>
 Package pdftex.def Info: figures/TheStranger.png  used on input line 130.
@@ -2074,13 +2054,13 @@ Overfull \hbox (22.62248pt too wide) in paragraph at lines 134--134
  []
 
 
-Overfull \hbox (22.62248pt too wide) in paragraph at lines 145--145
-[]|[]| 
+Underfull \hbox (badness 1009) in paragraph at lines 137--137
+\T1/pplx/m/n/10.95 (+20) ing and look-ing quite sleepy...
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 148--148
-\T1/pplx/m/n/10.95 (+20) ing and look-ing quite sleepy...
+Overfull \hbox (22.62248pt too wide) in paragraph at lines 139--139
+[]|[]| 
  []
 
 
@@ -2098,8 +2078,8 @@ Overfull \hbox (15.07956pt too wide) in alignment at lines 151--153
  [] [] [] 
  []
 
-[51] [52 <./figures/TheStranger.png>]
-<figures/Loner.png, id=656, 376.40625pt x 376.40625pt>
+[62] [63 <./figures/TheStranger.png>]
+<figures/Loner.png, id=922, 376.40625pt x 376.40625pt>
 File: figures/Loner.png Graphic file (type png)
 <use figures/Loner.png>
 Package pdftex.def Info: figures/Loner.png  used on input line 167.
@@ -2110,224 +2090,316 @@ Overfull \hbox (51.07524pt too wide) in paragraph at lines 171--171
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 172--173
+Overfull \hbox (51.07524pt too wide) in paragraph at lines 176--176
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 177--177
+[]|\T1/pplx/m/n/10.95 (+20) They are just shy/in-tro-verted
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 177--178
 \T1/pplx/m/n/10.95 (+20) their own opin-ion and doubts.
  []
 
 
-Underfull \hbox (badness 6110) in paragraph at lines 173--173
+Underfull \hbox (badness 6110) in paragraph at lines 178--178
 []|\T1/pplx/m/n/10.95 (+20) Not get-ting enough feed-back
  []
 
 
-Overfull \hbox (51.07524pt too wide) in paragraph at lines 180--180
-[]|[]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
+Underfull \hbox (badness 10000) in paragraph at lines 184--184
 []|\T1/pplx/b/n/10.95 (+20) Suggested
  []
 
 
-Overfull \hbox (15.07956pt too wide) in alignment at lines 159--188
+Overfull \hbox (15.07956pt too wide) in alignment at lines 159--187
  [] [] [] 
  []
 
-[53] [54 <./figures/Loner.png>]
-<figures/OffTarget.png, id=667, 376.40625pt x 376.40625pt>
+[64] [65 <./figures/Loner.png>]
+<figures/OffTarget.png, id=934, 376.40625pt x 376.40625pt>
 File: figures/OffTarget.png Graphic file (type png)
 <use figures/OffTarget.png>
-Package pdftex.def Info: figures/OffTarget.png  used on input line 202.
+Package pdftex.def Info: figures/OffTarget.png  used on input line 201.
 (pdftex.def)             Requested size: 376.40532pt x 376.40532pt.
 
-Overfull \hbox (51.07524pt too wide) in paragraph at lines 206--206
+Overfull \hbox (51.07524pt too wide) in paragraph at lines 205--205
 []|[]| 
  []
 
 
-Overfull \hbox (51.07524pt too wide) in paragraph at lines 215--215
-[]|[]| 
- []
-
-
-Underfull \hbox (badness 1137) in paragraph at lines 216--217
+Underfull \hbox (badness 1137) in paragraph at lines 206--207
 \T1/pplx/m/n/10.95 (+20) about the con-se-quences of not
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 218--219
+Underfull \hbox (badness 4621) in paragraph at lines 208--209
 []|\T1/pplx/m/n/10.95 (+20) Q7: A per-son in the team
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 218--219
+Underfull \hbox (badness 1009) in paragraph at lines 208--209
 \T1/pplx/m/n/10.95 (+20) is slouch-ing and look-ing quite
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Overfull \hbox (51.07524pt too wide) in paragraph at lines 211--211
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []|\T1/pplx/b/n/10.95 (+20) Suggested
  []
 
 
-Overfull \hbox (15.07956pt too wide) in alignment at lines 194--224
+Overfull \hbox (15.07956pt too wide) in alignment at lines 193--223
  [] [] [] 
  []
 
-[55 <./figures/OffTarget.png>] [56]
-<figures/Mask.png, id=678, 376.40625pt x 376.40625pt>
+[66 <./figures/OffTarget.png>] [67]
+<figures/Mask.png, id=945, 376.40625pt x 376.40625pt>
 File: figures/Mask.png Graphic file (type png)
 <use figures/Mask.png>
-Package pdftex.def Info: figures/Mask.png  used on input line 238.
+Package pdftex.def Info: figures/Mask.png  used on input line 237.
 (pdftex.def)             Requested size: 376.40532pt x 376.40532pt.
 
-Overfull \hbox (51.07524pt too wide) in paragraph at lines 242--242
+Overfull \hbox (51.07524pt too wide) in paragraph at lines 241--241
 []|[]| 
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 242--242
-\T1/pplx/m/n/10.95 (+20) some-thing else in par-al-lel (Q2,
- []
-
-
-Overfull \hbox (51.07524pt too wide) in paragraph at lines 247--247
+Overfull \hbox (51.07524pt too wide) in paragraph at lines 246--246
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
 []|\T1/pplx/b/n/10.95 (+20) Suggested
  []
 
 
-Overfull \hbox (15.07956pt too wide) in alignment at lines 230--255
+Overfull \hbox (15.07956pt too wide) in alignment at lines 229--254
  [] [] [] 
  []
 
-[57 <./figures/Mask.png>]
-<figures/Distraction.png, id=685, 376.40625pt x 376.40625pt>
+[68 <./figures/Mask.png>]
+<figures/Distraction.png, id=952, 376.40625pt x 376.40625pt>
 File: figures/Distraction.png Graphic file (type png)
 <use figures/Distraction.png>
-Package pdftex.def Info: figures/Distraction.png  used on input line 269.
+Package pdftex.def Info: figures/Distraction.png  used on input line 268.
 (pdftex.def)             Requested size: 376.40532pt x 376.40532pt.
 
-Overfull \hbox (51.07524pt too wide) in paragraph at lines 273--273
+Overfull \hbox (51.07524pt too wide) in paragraph at lines 272--272
 []|[]| 
  []
 
 
-Overfull \hbox (51.07524pt too wide) in paragraph at lines 277--277
-[]|[]| 
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 278--279
+Underfull \hbox (badness 1009) in paragraph at lines 273--274
 \T1/pplx/m/n/10.95 (+20) ing and look-ing quite sleepy...
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--281
+Overfull \hbox (51.07524pt too wide) in paragraph at lines 276--276
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 []|\T1/pplx/b/n/10.95 (+20) Suggested
  []
 
 
-Overfull \hbox (15.07956pt too wide) in alignment at lines 261--284
+Overfull \hbox (15.07956pt too wide) in alignment at lines 260--283
  [] [] [] 
  []
 
-[58 <./figures/Distraction.png>]) (./chapters/07_placc.tex [59]
+[69] [70 <./figures/Distraction.png>]) (./chapters/07_placc.tex [71]
 chapter 7.
-[60
+[72
 
 
-] [61] [62]
-Overfull \hbox (3.08594pt too wide) in alignment at lines 84--99
+] [73]
+Overfull \hbox (3.25766pt too wide) in paragraph at lines 54--55
+\T1/pplx/m/n/10.95 (-20) with sug-ges-tions and rec-om-men-da-tions about vir-t
+ual project man-age-ment. PLACC
+ []
+
+[74] [75]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+11.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (3.08594pt too wide) in alignment at lines 110--125
  [] [] 
  []
 
-[63]
-Overfull \hbox (3.08594pt too wide) in alignment at lines 109--123
+[76]
+Overfull \hbox (3.08594pt too wide) in alignment at lines 129--142
  [] [] 
  []
 
+[77]
+Overfull \hbox (3.08594pt too wide) in alignment at lines 156--171
+ [] [] 
+ []
 
+[78]
+Overfull \hbox (3.08594pt too wide) in alignment at lines 175--189
+ [] [] 
+ []
+
+[79]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/UseCaseModel.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/UseCaseModel.pdf, id=722, 507.81718pt x 295.1025pt>
+<figures/UseCaseModel.pdf, id=1024, 507.81718pt x 277.035pt>
 File: figures/UseCaseModel.pdf Graphic file (type pdf)
 <use figures/UseCaseModel.pdf>
-Package pdftex.def Info: figures/UseCaseModel.pdf  used on input line 136.
-(pdftex.def)             Requested size: 418.25555pt x 243.05728pt.
+Package pdftex.def Info: figures/UseCaseModel.pdf  used on input line 207.
+(pdftex.def)             Requested size: 418.25555pt x 228.17624pt.
+[80] [81 <./figures/UseCaseModel.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]|\T1/pplx/m/it/10.95 (+20) Participating
+ []
 
+
+Overfull \hbox (3.08594pt too wide) in alignment at lines 224--246
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]|\T1/pplx/m/it/10.95 (+20) Participating
+ []
+
+
+Overfull \hbox (3.08594pt too wide) in alignment at lines 250--273
+ [] [] 
+ []
+
+[82] [83]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/AOM2.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/AOM2.pdf, id=723, 368.33609pt x 231.74579pt>
+<figures/AOM2.pdf, id=1065, 368.33609pt x 231.74579pt>
 File: figures/AOM2.pdf Graphic file (type pdf)
 <use figures/AOM2.pdf>
-Package pdftex.def Info: figures/AOM2.pdf  used on input line 147.
+Package pdftex.def Info: figures/AOM2.pdf  used on input line 290.
 (pdftex.def)             Requested size: 368.33517pt x 231.74521pt.
-[64] [65 <./figures/UseCaseModel.pdf> <./figures/AOM2.pdf>] [66]
+[84 <./figures/AOM2.pdf>] [85] [86]
+Overfull \hbox (8.2957pt too wide) in paragraph at lines 333--333
+[]|\T1/pplx/b/n/10.95 (-20) Name| 
+ []
+
+
+Overfull \vbox (85.86015pt too high) detected at line 335
+ []
+
+
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/Behaviours.pdf): P
 DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/Behaviours.pdf, id=770, 376.40625pt x 815.045pt>
+<figures/Behaviours.pdf, id=1090, 376.40625pt x 815.045pt>
 File: figures/Behaviours.pdf Graphic file (type pdf)
 <use figures/Behaviours.pdf>
-Package pdftex.def Info: figures/Behaviours.pdf  used on input line 182.
+Package pdftex.def Info: figures/Behaviours.pdf  used on input line 335.
 (pdftex.def)             Requested size: 376.40532pt x 815.043pt.
+
+Overfull \vbox (119.04958pt too high) detected at line 337
+ []
+
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ASpecificBehaviour
 .pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
 d
-<figures/ASpecificBehaviour.pdf, id=771, 379.4175pt x 1301.86375pt>
+<figures/ASpecificBehaviour.pdf, id=1091, 375.4025pt x 825.0825pt>
 File: figures/ASpecificBehaviour.pdf Graphic file (type pdf)
 <use figures/ASpecificBehaviour.pdf>
-Package pdftex.def Info: figures/ASpecificBehaviour.pdf  used on input line 182
+Package pdftex.def Info: figures/ASpecificBehaviour.pdf  used on input line 337
 .
-(pdftex.def)             Requested size: 379.41656pt x 1301.86058pt.
+(pdftex.def)             Requested size: 375.40158pt x 825.08049pt.
+
+Overfull \vbox (193.38904pt too high) detected at line 339
+ []
+
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/ASpecificBehaviour
+Part2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<figures/ASpecificBehaviourPart2.pdf, id=1092, 379.4175pt x 825.0825pt>
+File: figures/ASpecificBehaviourPart2.pdf Graphic file (type pdf)
+<use figures/ASpecificBehaviourPart2.pdf>
+Package pdftex.def Info: figures/ASpecificBehaviourPart2.pdf  used on input lin
+e 339.
+(pdftex.def)             Requested size: 379.41656pt x 825.08049pt.
+
+Overfull \vbox (34.4062pt too high) detected at line 341
+ []
+
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/Personas.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/Personas.pdf, id=772, 376.40625pt x 815.045pt>
+<figures/Personas.pdf, id=1093, 376.40625pt x 815.045pt>
 File: figures/Personas.pdf Graphic file (type pdf)
 <use figures/Personas.pdf>
-Package pdftex.def Info: figures/Personas.pdf  used on input line 188.
+Package pdftex.def Info: figures/Personas.pdf  used on input line 341.
 (pdftex.def)             Requested size: 376.40532pt x 815.043pt.
+
+Overfull \vbox (87.22888pt too high) detected at line 343
+ []
+
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figures/HowTo.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/HowTo.pdf, id=773, 376.40625pt x 815.045pt>
+<figures/HowTo.pdf, id=1094, 376.40625pt x 815.045pt>
 File: figures/HowTo.pdf Graphic file (type pdf)
 <use figures/HowTo.pdf>
-Package pdftex.def Info: figures/HowTo.pdf  used on input line 188.
+Package pdftex.def Info: figures/HowTo.pdf  used on input line 343.
 (pdftex.def)             Requested size: 376.40532pt x 815.043pt.
-[67] [68 <./figures/Behaviours.pdf> <./figures/ASpecificBehaviour.pdf>])
-[69 <./figures/Personas.pdf> <./figures/HowTo.pdf>]
-Package tocbasic Info: character protrusion at lof deactivated on input line 69
+
+Overfull \hbox (15.08592pt too wide) in alignment at lines 329--346
+ [] [] [] 
+ []
+
+[87 <./figures/Behaviours.pdf> <./figures/ASpecificBehaviour.pdf>] [88 <./figur
+es/ASpecificBehaviourPart2.pdf> <./figures/Personas.pdf>])
+(./chapters/08_summary.tex [89 <./figures/HowTo.pdf>]
+chapter 8.
+[90
+
+
+] [91] [92] [93] [94] [95]) [96]
+Package tocbasic Info: character protrusion at lof deactivated on input line 70
 .
  (./main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [70
+ [97
 
 
 ]
-Package tocbasic Info: character protrusion at lot deactivated on input line 70
+Package tocbasic Info: character protrusion at lot deactivated on input line 71
 .
-
-(./main.lot)
+ (./main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [71
+ [98
 
 
 ]
@@ -2335,31 +2407,21 @@ chapter without number
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplx/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
-2.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [72
+[99
 
 
-] [73]
-[74] [75] [76]
-Overfull \hbox (2.04686pt too wide) in paragraph at lines 73--73
-[]\T1/pplx/m/n/10.95 (-20) Y. Trope and O. Co-hen. ^^P  Per-cep-tual and in-fer
--en-tial de-ter-mi-nants of behavior-
+] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
+Overfull \hbox (1.41382pt too wide) in paragraph at lines 74--74
+\T1/pplx/m/n/10.95 (-20) tion)The Cod-ing Man-ual for Qual-i-ta-tive Re-searche
+rs (3rd edi-tion) Johnny
  []
 
-(./chapters/Appendix.tex [77]
+[110] (./chapters/Appendix.tex [111]
 chapter A.
-[78
+[112
 
 
-] [79] [80] [81] [82] [83] [84] [85]
+] [113] [114] [115] [116] [117] [118] [119]
 Overfull \hbox (6.15602pt too wide) in paragraph at lines 193--193
 []|\T1/pplx/b/n/10.95 (-20) Interview| 
  []
@@ -2461,7 +2523,7 @@ Overfull \hbox (9.24713pt too wide) in paragraph at lines 245--245
 []|[]| 
  []
 
-[86] [87]
+[120] [121]
 Overfull \vbox (14.28006pt too high) detected at line 250
  []
 
@@ -2503,7 +2565,7 @@ Overfull \hbox (9.24713pt too wide) in paragraph at lines 263--263
 []|[]| 
  []
 
-[88] [89] [90]
+[122] [123] [124]
 Overfull \vbox (14.28009pt too high) detected at line 274
  []
 
@@ -2559,7 +2621,7 @@ Overfull \hbox (3.41685pt too wide) in paragraph at lines 330--331
 []|[]| 
  []
 
-[91]
+[125]
 Overfull \vbox (14.28006pt too high) detected at line 339
  []
 
@@ -2596,7 +2658,7 @@ Overfull \hbox (3.41685pt too wide) in paragraph at lines 370--370
 []|[]| 
  []
 
-[92]
+[126]
 Overfull \vbox (28.5601pt too high) detected at line 377
  []
 
@@ -2610,7 +2672,7 @@ Overfull \hbox (3.41685pt too wide) in paragraph at lines 383--383
 []|[]| 
  []
 
-[93] [94]
+[127] [128]
 Underfull \hbox (badness 10000) in paragraph at lines 399--399
 []|\T1/pplx/m/n/10.95 (+20) Strongly
  []
@@ -2620,7 +2682,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 399--400
 []|\T1/pplx/m/n/10.95 (+20) Strongly
  []
 
-[95]
+[129]
 Overfull \vbox (28.56013pt too high) detected at line 520
  []
 
@@ -2724,7 +2786,7 @@ Underfull \hbox (badness 3078) in paragraph at lines 601--602
 \T1/pplx/m/n/10.95 (+20) their fa-cial ex-pres-sions
  []
 
-[96] [97]
+[130] [131]
 Overfull \vbox (71.40025pt too high) detected at line 611
  []
 
@@ -2792,12 +2854,9 @@ Overfull \hbox (9.24713pt too wide) in paragraph at lines 635--636
 []|[]| 
  []
 
-[98] [99])
+[132] [133])
 No complaints by nag.
-[100] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
+[134] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -2808,15 +2867,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49982 strings out of 478994
- 1100287 string characters out of 5858185
- 2122079 words of memory out of 5000000
- 65731 multiletter control sequences out of 15000+600000
- 487125 words of font info for 495 fonts, out of 8000000 for 9000
+ 50385 strings out of 478994
+ 1111560 string characters out of 5858185
+ 2126729 words of memory out of 5000000
+ 65970 multiletter control sequences out of 15000+600000
+ 487889 words of font info for 525 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 118i,19n,119p,10599b,2990s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+ 118i,19n,119p,10599b,2992s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
 live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texl
 ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texli
 ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
@@ -2826,10 +2885,10 @@ mf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2021/texmf
 -dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist/f
 onts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (109 pages, 7793838 bytes).
+Output written on main.pdf (143 pages, 8308348 bytes).
 PDF statistics:
- 2657 PDF objects out of 2984 (max. 8388607)
- 1806 compressed objects within 19 object streams
- 292 named destinations out of 1000 (max. 500000)
- 112797 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 3321 PDF objects out of 3580 (max. 8388607)
+ 2322 compressed objects within 24 object streams
+ 410 named destinations out of 1000 (max. 500000)
+ 110815 words of extra memory for PDF output out of 128383 (max. 10000000)
 
