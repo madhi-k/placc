@@ -1,0 +1,358 @@
+[
+  {
+    "title" : "Joining meeting via mobile phone",
+    "variations" : [
+      {
+        "title" : "Riding a bike, getting groceries at the supermarket",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "88,9% of PLs agree that they are actually not attentive and must schedule more time for the meetings \n66,7% of PLs agree that this person might not be involved in the team spirit \n88,9% agree that this person isn't particularly interested in getting the most out of the iPraktikum and the meeting \n66,7%  would personally consider this quite unprofessional",
+            "personas" : [
+              "the_stranger",
+              "the_unprofessional"
+            ]
+          }
+        },
+        "solution" : "You should keep a close eye to this situation, as it might affect the team and the progress of the project. When in doubt, analyze their performance and listen to the rest of the team and their impression. Also, pay close attention to the explanations they are giving, or better say, if they are giving any at all."
+      },
+      {
+        "title" : "Being on a train, in nature",
+        "variationType" : {
+          "openQuestionsData" : "It is justified for as long as it is not repeated very often. The biggest risks project leaders mention in such situations, is that the participation might be poorer and the internet connection less stable"
+        },
+        "solution" : "Encourage the team to let at least the coach know in advance if they need to join with their mobile phone. Make sure to build a strong meeting management culture, so that the information and decisions of the meeting are not lost in the case a team member is absent. "
+      }
+    ],
+    "imageName" : "mobile_user"
+  },
+  {
+    "title" : "Lack of audible participation",
+    "variations" : [
+      {
+        "title" : "Mostly just listening during the meetings and being muted almost all the time",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "11,1% This person is probably not as experienced as the others \n22,2% I would assume they are doing something else in parallel \n88,9% They are just shy\/introverted \n22,2% They consider the iPraktikum the typical uni lecture and are just there to not absent \n22,2% They are likely facing impediments with their tasks\/ struggling with productivity",
+            "personas" : [
+              "the_loner",
+              "off_target"
+            ]
+          }
+        },
+        "solution" : "Quite often the project leaders say that this behaviour alone is not enough to draw concrete conclusions.The team dynamic is of importance here. PLs also keep an eye on distractions, as being muted and being distracted often happen at the same time. \nThis situation also depends on the the rules you have set as a team. If you decide from the get-go that the microphones should be muted all the time except for discussion, than adjust the expectations accordingly."
+      },
+      {
+        "title" : "Being muted and having the camera off",
+        "variationType" : {
+          "openQuestionsData" : "Although it hasn't happened in the iPraktikum, this is disliked by the PLs and it may be perceived as a lack of commitment."
+        },
+        "solution" : "State this as a rule right at the start of the iPraktikum. PLs in the past have actually worked on such fundamental rules together with their teams."
+      }
+    ],
+    "imageName" : "lack_of_audible"
+  },
+  {
+    "title" : "Distracted by the screen",
+    "variations" : [
+      {
+        "title" : "They seem focused on another task, are typing and seem to be thinking",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "100% I would consider this impolite towards the participants of the meeting \n77,8% The advancement of the project might not be a priority\n33,3% The project itself is seemingly not appealing to them \n33,3 5% They probably just want to pretend to be in the meeting, but not put in the work",
+            "personas" : [
+              "ego_is_the_enemy",
+              "the_stranger"
+            ]
+          }
+        },
+        "solution" : "PLs mention that such actors are already adults, and it's up to them to decide whether they want to take the meeting seriously or not. If it is repeated, you can talk personally with this person, but your argumentation must be solid."
+      },
+      {
+        "title" : "Are actually doing something for the project",
+        "variationType" : {
+          "openQuestionsData" : "In such situations, this behavior is perceived as a lack of preparations before the meeting and being impolite."
+        },
+        "solution" : "Better preparing for a meeting can be addressed in team meetings, as there might be other symptoms too."
+      }
+    ],
+    "imageName" : "distracted_by_the_screen"
+  },
+  {
+    "title" : "Turning the camera on and off",
+    "variations" : [
+      {
+        "title" : "It is obvious they are engaging in other activity in the meantime",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "33,3 I would assume they are not that committed to the project and teamwork  \n88,9% It’s confusing to me why they do this and a bit disrespectful \n77,8% They are possibly not actively listening and don’t want to show what they are doing instead",
+            "personas" : [
+              "ego_is_the_enemy",
+              "mask"
+            ]
+          }
+        },
+        "solution" : "One way to deal with this is to ask the participant if they are facing technical issues. Also encourage the participants to write in the chat if they need to leave to e.g. open the door, so that there are no awkward assumptions made."
+      },
+      {
+        "title" : "They are not really doing anything active",
+        "variationType" : {
+          "openQuestionsData" : "They are probably uncomfortable with showing what is happening in the background."
+        },
+        "solution" : "Revaluate if the frequency is bothering you. If it happens too often, and you notice a certain distance, this can be addressed in the meetings and in the feedback sessions."
+      }
+    ],
+    "imageName" : "camera_on_and_off"
+  },
+  {
+    "title" : "Presence or entrance of other people in the room",
+    "variations" : [
+      {
+        "title" : "They engage in conversation",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "66,6% This might be offensive towards the participants in the meeting \n33,3% To me, it looks like they are not focused on the meeting and get distracted easily \nThis doesn't indicate that they are not contributing enough to the team \n33,3%They probably easily mix private and professional life ",
+            "personas" : [
+              "ego_is_the_enemy",
+              "distraction"
+            ]
+          }
+        },
+        "solution" : "If this happens often and for an extended time you could ask the team member a question to draw attention. This is also something that could be addressed in the feedback session."
+      },
+      {
+        "title" : "People not related to the project sitting next to each other",
+        "variationType" : {
+          "openQuestionsData" : "In might give the impression of unprofessionalism."
+        },
+        "solution" : "There is nothing particular project leaders suggest to do, for as long as this doesn not interfere with the flow of the meeting and the performance of the team member."
+      },
+      {
+        "title" : "The participant doesn't seem to be very distracted, but the other person does something inappropriate",
+        "variationType" : {
+          "openQuestionsData" : "This might unnecessarily distract the team but does not say something about the team member."
+        },
+        "solution" : "Most PLs accept it, as this is quite normal to happen in offices but especially in apartments which are shared with other people. Still, if something VERY inappropriate happens, this should be shared with the team member, as it might occur in customer meetings."
+      }
+    ],
+    "imageName" : "presence_of_another_person"
+  },
+  {
+    "title" : "Agreeing to \"too many\" things",
+    "variations" : [
+      {
+        "title" : "Use empty phrases and are not actually delivering",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "100% They might be lacking the skills to keep up to their promises \n33,3% Not getting enough feedback makes me think this is not a person you can easily deal with \n33,3% They might not be really interested in the project and are just pretending to agree \n55,6% It’s not in their culture\/personality to reply or ask for support",
+            "personas" : [
+              "off_target",
+              "the_loner"
+            ]
+          }
+        },
+        "solution" : "See whether the requirements are well stated. Encourage the coach to ask the person if they need support, as this might also be a sign of self-doubt and lack of confidence."
+      }
+    ],
+    "imageName" : "agreeing"
+  },
+  {
+    "title" : "Posture during the meetings",
+    "variations" : [
+      {
+        "title" : "A person in the team is slouching and looking quite sleepy",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "55,6% Perhaps, they are bored and are not really attending \n22,2% This sluggishness probably translates into their work \n33,3% They might consider it unnecessary to get out of the comfort zone of their home and make an extra effort",
+            "personas" : [
+              "distraction",
+              "the_stranger"
+            ]
+          }
+        },
+        "solution" : "Encourage and motivate the team to be active, as it will shorten the meeting time and it will make everyone happier in the end. "
+      },
+      {
+        "title" : "Not showing a good portion of their upper body",
+        "variationType" : {
+          "openQuestionsData" : "This was mentioned by only one of the PLs, who would appreciate it if the participants would show more than just their faces, preferably their hands. If the hands are showing, they can then not be used anymore to perform side tasks. This would be the most professional."
+        },
+        "solution" : "Since only one project leader mentioned this, take into consideration if there is some specific aspect you consider unprofessional. It could be the posture, it could be the light."
+      }
+    ],
+    "imageName" : "posture"
+  },
+  {
+    "title" : "Constantly interacting with their phone",
+    "variations" : [
+      {
+        "title" : "They look at it, check notifications, take phone calls, even type…",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "66,7% They could be into social media or communication apps \n55,6% This is quite an immature thing to do in meetings \n100% They are not interested in the discussion and in what everyone else is saying",
+            "personas" : [
+              "the_stranger",
+              "distraction"
+            ]
+          }
+        },
+        "solution" : "This situation is quite problematic, and it should be addressed as soon as possible. The reasons though can be of different kinds, such as waiting for an important phone call or the meeting being boring, hence, the approach should be considered thoroughly. One project leader mentions that people tend to be more comfortable because they are basically alone in the room and they tend to use their smart phones more, or do something else in their computers. They might think nobody can see them, but that is not true when in video calls."
+      }
+    ],
+    "imageName" : "mobile_phone_distraction"
+  },
+  {
+    "title" : "Background",
+    "variations" : [
+      {
+        "title" : "A student has a stack of dishes waiting to be cleaned or a pile of clothes behind.",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "22,2% This person might be disorganized in their work too \n33,3% This could be disrespectful to the participants, especially in formal meetings",
+            "personas" : [
+              "ego_is_the_enemy",
+              "off_target"
+            ]
+          }
+        },
+        "solution" : "Generally, dealing with students makes such situations more tolerable. If it is not too much, look at the bright side: you might learn a lot about a person's personality by simply looking into their background."
+      },
+      {
+        "title" : "This also happens in a customer meeting",
+        "variationType" : {
+          "openQuestionsData" : "Some PLs mention that this situation can be accepted in team meetings, but not in customer meetings as it is quite unprofessional (especially when the customers appreciate formality.)"
+        },
+        "solution" : "Define clear boundaries regarding appearance and background in the team meetings, preferably right at the start."
+      }
+    ],
+    "imageName" : "disorganized_background"
+  },
+  {
+    "title" : "Being not visible in the meeting ",
+    "variations" : [
+      {
+        "title" : "They sit in the dark, the camera is in a weird position",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "11,1% They don’t want to show their facial expressions and reactions \n22,2% This could make me suspicious of their performance \n33,3% They might not be the most engaged and cooperative in the team",
+            "personas" : [
+              "the_loner",
+              "off_target"
+            ]
+          }
+        },
+        "solution" : "Considering the low attribution level, maybe it's better to cut some slack here. Since today's youth are quite into gaming and sometimes perceived as \"nerds\", sitting in the dark might be normal to them. This should be adjusted though for formal meetings and presentations."
+      },
+      {
+        "title" : "Their camera is off",
+        "variationType" : {
+          "openQuestionsData" : "Has not happened in the iPraktikum but a PL mentioned it annoyed them when it happened in another project."
+        },
+        "solution" : "If it happens in a team, politely ask for everyone to open their cameras, so the team can get to know each other better and remember each others' faces."
+      }
+    ],
+    "imageName" : "not_visible"
+  },
+  {
+    "title" : "Problems connecting his devices",
+    "variations" : [
+      {
+        "title" : "Reluctant and probably has other things open on their screen",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "33,3% The iPraktikum is not a priority to them this semester \n22,2% They are probably just opening the page before having to share the screen \n22,2% They might not be actively sharing so they don't have to show their actual progress",
+            "personas" : [
+              "the_stranger",
+              "mask"
+            ]
+          }
+        },
+        "solution" : "Since this is also related to a lack of preparation, you can remind to the students how important proper preparation before the meetings is."
+      },
+      {
+        "title" : "Linked to connectivity\/internet issues",
+        "variationType" : {
+          "openQuestionsData" : "Keep an eye open if this happens too often, as it might indicate a disinterest in fixing issues, a PL says."
+        },
+        "solution" : "Usually the students become aware of such problems on their own. If not, you can motivate the coach to offer some kind of assistance."
+      }
+    ],
+    "imageName" : "devices"
+  },
+  {
+    "title" : "Audio issues",
+    "variations" : [
+      {
+        "title" : "Bad quality of the sound",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "55,6% They should consider switching or investing in a more professional setting \n100% It might hurt the quality of the meeting and it renders the person less approachable \n11,1% It makes me think that this person is not motivated",
+            "personas" : [
+              "the_loner",
+              "the_unprofessional"
+            ]
+          }
+        },
+        "solution" : "Mentioning this problem is beneficial alongside providing practical suggestions. Suggesting to purchase  better-sounding devices is not advised by the PLs, as not everyone has the means to do such a thing. Most audio issues can be fixed by proper microphone placement. In severe cases, it helps to use headphones. Buying an expensive microphone is usually not necessary."
+      },
+      {
+        "title" : "No improvements from meeting to meeting",
+        "variationType" : {
+          "openQuestionsData" : "It might indicate a disinterest in fixing issues, and not being engaged in the project. Another PL had this issue in this semester and found it quite annoying."
+        },
+        "solution" : "Since the meeting  participants do not hear themselves, they are unaware of their audio quality. So it's not malevolence, one PL says. The student first needs to be aware of the problem."
+      }
+    ],
+    "imageName" : "audio_issues"
+  },
+  {
+    "title" : "Interrupts the participants of a meeting",
+    "variations" : [
+      {
+        "title" : "Typically by talking over the others",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "77,8% They want to impose their opinion on others \n33,3% That don't want the other members to be heard which is quite improper \n66,7% This is personally even rude",
+            "personas" : [
+              "ego_is_the_enemy"
+            ]
+          }
+        },
+        "solution" : "PLs justify this behavior by saying that the person might also be motivated, engaged, and eager to share more. Often, it is enough to let this person know that their work is appreciated already, and that the others should as engaged too."
+      },
+      {
+        "title" : "The speaker doesn't stop talking",
+        "variationType" : {
+          "openQuestionsData" : "This has been mentioned to be annoying to some PLs"
+        },
+        "solution" : "Writing a personal message could be one approach. Also the time keeper of the meeting can stop the discussion, as this is their duty after all."
+      }
+    ],
+    "imageName" : "interrupts"
+  },
+  {
+    "title" : "Engaging in physical movements",
+    "variations" : [
+      {
+        "title" : "like walking around or performing some physical exercise",
+        "variationType" : {
+          "questionnaireData" : {
+            "attributions" : "77,8% This is inconsiderate towards the other participants \n88,9% To me, it shows an unwillingness to adapt to a professional setting",
+            "personas" : [
+              "the_unprofessional",
+              "ego_is_the_enemy"
+            ]
+          }
+        },
+        "solution" : "Reminding the participants of the professionalism required might be beneficial."
+      },
+      {
+        "title" : "Standing in the desk and moving a little",
+        "variationType" : {
+          "openQuestionsData" : "A PL in such a situation was ok with this."
+        },
+        "solution" : "No solution."
+      }
+    ],
+    "imageName" : "physical_movements"
+  }
+]

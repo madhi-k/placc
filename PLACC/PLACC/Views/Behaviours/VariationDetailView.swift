@@ -79,7 +79,7 @@ struct OpenQuestionsView: View {
                     .font(.alata(size: 25))
             }
             ZStack {
-                Color.blue.opacity(0.4)
+                Color("placc_lavender")
                 Text(attributions).padding()
             }.cornerRadius(22)
             HStack {
@@ -88,7 +88,7 @@ struct OpenQuestionsView: View {
                     .font(.alata(size: 25))
             }
             ZStack {
-                Color.blue.opacity(0.4)
+                Color("placc_lavender")
                 Text(solution).padding()
             }.cornerRadius(22)
         }
@@ -97,6 +97,6 @@ struct OpenQuestionsView: View {
 
 struct VariationDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        VariationDetailView(variation: Utils.behaviours[0].variations[0])
+        VariationDetailView(variation: Behaviour.content[0].variations[0])
     }
 }

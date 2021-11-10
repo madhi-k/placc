@@ -7,14 +7,8 @@
 
 import SwiftUI
 
-struct Persona {
-    let title: String
-    let description: String
-    let imageName: String
-}
-
 struct PersonasView: View {
-    let personas = Utils.personas
+    let personas = Persona.content
     let layout = [
         GridItem(.flexible())
     ]

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct BehavioursView: View {
-    let behaviours = Utils.behaviours
+    let behaviours = Behaviour.content
     
     let layout = [
         GridItem(.flexible()),
@@ -43,18 +43,24 @@ struct BehaviourCardView: View {
     var body: some View {
         ZStack {
             Color.black
-            VStack(alignment: .leading) {
+            VStack {
                 Spacer()
-                Image(behaviour.imageName)
-                    .resizable()
-                    .scaledToFit()
-                    .padding(.horizontal, 12)
-                    .padding(.bottom, 16)
-                Text(behaviour.title)
-                    .multilineTextAlignment(.leading)
-                    .foregroundColor(.white)
-                    .padding(.bottom, 16)
-                    .padding(.horizontal, 12)
+                VStack(alignment: .center) {
+                    Image(behaviour.imageName)
+                        .resizable()
+                        .scaledToFit()
+                        .padding(.horizontal, 12)
+                        .padding(.top)
+                        .padding(.bottom, 16)
+                }
+                HStack {
+                    Text(behaviour.title)
+                        .multilineTextAlignment(.leading)
+                        .foregroundColor(.white)
+                        .padding(.bottom, 16)
+                        .padding(.horizontal, 12)
+                    Spacer()
+                }
             }
         }.cornerRadius(22)
         .frame(height: 230)

@@ -21,7 +21,7 @@ struct BehaviourDetailView: View {
             Image(behaviour.imageName)
                 .resizable()
                 .scaledToFit()
-                .padding(.horizontal, 12)
+                .padding(.horizontal, 16)
                 .padding(.bottom, 12)
             HStack {
                 Text("It might look like:")
@@ -46,6 +46,6 @@ struct BehaviourDetailView: View {
 
 struct BehaviourDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        BehaviourDetailView(behaviour: Utils.behaviours[0])
+        BehaviourDetailView(behaviour: Behaviour.content[0])
     }
 }

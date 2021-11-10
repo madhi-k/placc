@@ -1,0 +1,37 @@
+[
+  {
+    "title" : "The Unprofessional",
+    "imageName" : "the_unprofessional",
+    "description" : "Attribution based on behaviour that does not conform to the one expected by the team. Usually considered unintentional."
+  },
+  {
+    "title" : "Ego is the enemy",
+    "imageName" : "ego_is_the_enemy",
+    "description" : "Attribution formed based on egoistical attitude and behaviour of a person, which often overshadows the efforts of the other members and might even be offensive in more serious cases."
+  },
+  {
+    "title" : "L'Étranger",
+    "imageName" : "the_stranger",
+    "description" : "This Persona represents a person detached and disengaged from the activities of a meeting. They are usually not as involved as other participants and therefore, stand out for their distance."
+  },
+  {
+    "title" : "The Loner",
+    "imageName" : "the_loner",
+    "description" : "A loner is a person that seems to be operating in a more solitary manner and rises therefore questions regarding their engagement, involvement and personality."
+  },
+  {
+    "title" : "The Underperformer",
+    "imageName" : "off_target",
+    "description" : "Attributions related to this persona are usually made with the goal of explaining this person's lack of performance or a tendency to perform in a poorer manner."
+  },
+  {
+    "title" : "Hiding and not seeking",
+    "imageName" : "mask",
+    "description" : "Attributions regarding this persona are made as the PLs notice a tendency to not openly approach the virtual setting."
+  },
+  {
+    "title" : "Distraction Monster",
+    "imageName" : "distraction",
+    "description" : "Attributions of this persona relate to the lack of focus one might exhibit during team meeting activities."
+  }
+]

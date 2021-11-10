@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		59678A1C273C39D200CCB664 /* behaviours.json in Resources */ = {isa = PBXBuildFile; fileRef = 59678A1B273C39D200CCB664 /* behaviours.json */; };
+		59678A1E273C3D5800CCB664 /* Variation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59678A1D273C3D5800CCB664 /* Variation.swift */; };
+		59678A20273C3D7500CCB664 /* VariationType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59678A1F273C3D7500CCB664 /* VariationType.swift */; };
+		59678A22273C3ED400CCB664 /* personas.json in Resources */ = {isa = PBXBuildFile; fileRef = 59678A21273C3ED400CCB664 /* personas.json */; };
+		59678A24273C3FBD00CCB664 /* Persona.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59678A23273C3FBD00CCB664 /* Persona.swift */; };
+		59678A26273C428C00CCB664 /* ResourceContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59678A25273C428C00CCB664 /* ResourceContent.swift */; };
 		5986B1D4271B081A00CF2C76 /* PLACCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B1D3271B081A00CF2C76 /* PLACCApp.swift */; };
 		5986B1D6271B081A00CF2C76 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B1D5271B081A00CF2C76 /* ContentView.swift */; };
 		5986B1DB271B081C00CF2C76 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5986B1DA271B081C00CF2C76 /* Preview Assets.xcassets */; };
@@ -24,7 +30,6 @@
 		5986B213271B427C00CF2C76 /* ExpandableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B212271B427C00CF2C76 /* ExpandableView.swift */; };
 		5986B215271B440600CF2C76 /* PLACCGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B214271B440600CF2C76 /* PLACCGuideView.swift */; };
 		5986B219271C1AC500CF2C76 /* Behaviour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B218271C1AC500CF2C76 /* Behaviour.swift */; };
-		5986B21B271C208800CF2C76 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5986B21A271C208800CF2C76 /* Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +50,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		59678A1B273C39D200CCB664 /* behaviours.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = behaviours.json; sourceTree = "<group>"; };
+		59678A1D273C3D5800CCB664 /* Variation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variation.swift; sourceTree = "<group>"; };
+		59678A1F273C3D7500CCB664 /* VariationType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariationType.swift; sourceTree = "<group>"; };
+		59678A21273C3ED400CCB664 /* personas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = personas.json; sourceTree = "<group>"; };
+		59678A23273C3FBD00CCB664 /* Persona.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persona.swift; sourceTree = "<group>"; };
+		59678A25273C428C00CCB664 /* ResourceContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceContent.swift; sourceTree = "<group>"; };
 		5986B1D0271B081A00CF2C76 /* PLACC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PLACC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5986B1D3271B081A00CF2C76 /* PLACCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PLACCApp.swift; sourceTree = "<group>"; };
 		5986B1D5271B081A00CF2C76 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -66,7 +77,6 @@
 		5986B212271B427C00CF2C76 /* ExpandableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableView.swift; sourceTree = "<group>"; };
 		5986B214271B440600CF2C76 /* PLACCGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PLACCGuideView.swift; sourceTree = "<group>"; };
 		5986B218271C1AC500CF2C76 /* Behaviour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Behaviour.swift; sourceTree = "<group>"; };
-		5986B21A271C208800CF2C76 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +104,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		59678A1A273C399100CCB664 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				59678A1B273C39D200CCB664 /* behaviours.json */,
+				59678A21273C3ED400CCB664 /* personas.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		5986B1C7271B081A00CF2C76 = {
 			isa = PBXGroup;
 			children = (
@@ -117,6 +136,7 @@
 		5986B1D2271B081A00CF2C76 /* PLACC */ = {
 			isa = PBXGroup;
 			children = (
+				59678A1A273C399100CCB664 /* Resources */,
 				5986B217271C1AB000CF2C76 /* Models */,
 				5986B216271C1A7D00CF2C76 /* Views */,
 				5986B20E271B3C1E00CF2C76 /* Assets.xcassets */,
@@ -189,7 +209,10 @@
 			isa = PBXGroup;
 			children = (
 				5986B218271C1AC500CF2C76 /* Behaviour.swift */,
-				5986B21A271C208800CF2C76 /* Utils.swift */,
+				59678A1D273C3D5800CCB664 /* Variation.swift */,
+				59678A1F273C3D7500CCB664 /* VariationType.swift */,
+				59678A23273C3FBD00CCB664 /* Persona.swift */,
+				59678A25273C428C00CCB664 /* ResourceContent.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -299,8 +322,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				5986B201271B13A600CF2C76 /* Alata-Regular.ttf in Resources */,
+				59678A22273C3ED400CCB664 /* personas.json in Resources */,
 				5986B20F271B3C1E00CF2C76 /* Assets.xcassets in Resources */,
 				5986B1DB271B081C00CF2C76 /* Preview Assets.xcassets in Resources */,
+				59678A1C273C39D200CCB664 /* behaviours.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,15 +353,18 @@
 				5986B1D6271B081A00CF2C76 /* ContentView.swift in Sources */,
 				5986B215271B440600CF2C76 /* PLACCGuideView.swift in Sources */,
 				5986B1FF271B0A5100CF2C76 /* BehavioursView.swift in Sources */,
+				59678A26273C428C00CCB664 /* ResourceContent.swift in Sources */,
+				59678A24273C3FBD00CCB664 /* Persona.swift in Sources */,
 				5986B211271B40BF00CF2C76 /* YoungPLManualView.swift in Sources */,
 				5986B207271B1AB200CF2C76 /* BehaviourDetailView.swift in Sources */,
+				59678A1E273C3D5800CCB664 /* Variation.swift in Sources */,
 				5986B213271B427C00CF2C76 /* ExpandableView.swift in Sources */,
+				59678A20273C3D7500CCB664 /* VariationType.swift in Sources */,
 				5986B219271C1AC500CF2C76 /* Behaviour.swift in Sources */,
 				5986B20B271B2D6500CF2C76 /* VariationDetailView.swift in Sources */,
 				5986B205271B146800CF2C76 /* Font+Extensions.swift in Sources */,
 				5986B1D4271B081A00CF2C76 /* PLACCApp.swift in Sources */,
 				5986B20D271B303700CF2C76 /* PersonasView.swift in Sources */,
-				5986B21B271C208800CF2C76 /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
